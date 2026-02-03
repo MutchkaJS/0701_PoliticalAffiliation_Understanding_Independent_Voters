@@ -1,6 +1,9 @@
 # 0400_SRU_Projects-STAT660-Political Affiliation #  
-
 This project explores political party affiliation based on various demographic and socioeconomic factors.  The pipeline includes data ingestion, cleaning, and multiple predictive modeling approaches in R.  This README includes the following information to recreate each part of the analysis.  Any suggestions, comments, discussions, or critiques are welcome!  
+
+## OVERVIEW ##
+
+
 
 ## DATA DESCRIPTION  ##
 The Pulse of the Nation dataset from September, October, and November 2017 captures monthly public opinion on politics and social issues among nationally sampled U.S. adults, collected as part of a year‑long polling project funded by Cards Against Humanity. Across these three months, respondents report demographic information such as age, income, education, and political party affiliation, along with their views on Donald Trump’s job performance and broader scientific, social, and cultural topics. The data are individual‑level, with each row representing a survey respondent and each column representing a specific question or characteristic, allowing for rich multivariate analysis of political attitudes over time.
@@ -14,4 +17,6 @@ Beyond core political questions, the surveys in these months mix serious and lig
 
 Demographic questionaire items are similar for each month of the study, however social questionaire items differ from month to month.  A full list of the three questionaire items is provided here: -[Pulse of the Nation Questionaire Items](/Questionaire_PulseOfNation_all.docx).  For Further Information regarding the Pulse Of The Nation study at [PulseOfTheNation.com](https://thepulseofthenation.com/) 
 
-## DATA CLEANING ##
+## STAGE 1: DATA CLEANING ##
+
+To begin preprocessing I selected their shared variables: Income, Gender, Age, Educational Level, and Political Party Affiliation.
