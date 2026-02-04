@@ -1,5 +1,5 @@
 # 0400_SRU_Projects-STAT660-Political Affiliation #  
-This project explores political party affiliation based on various demographic and socioeconomic factors.  The pipeline includes data ingestion, cleaning, and multiple predictive modeling approaches in R.  This README includes the following information to recreate each part of the analysis.  Any suggestions, comments, discussions, or critiques are welcome!  
+This project explores political party affiliation based on various demographic and socioeconomic factors.  The pipeline includes data ingestion, cleaning, and multiple predictive modeling approaches in R, SQL and EXCEL.  This README includes the following information to recreate each part of the analysis.  Any suggestions, comments, discussions, or critiques are welcome!  
 
 ## OVERVIEW ##
 This study stems from the desire to better understand how Democrat, Independent, and Republican voters differ in both their socioeconomic circumstances and their views/beliefs.  
@@ -21,5 +21,5 @@ Beyond core political questions, the surveys in these months mix serious and lig
 Demographic questionaire items are similar for each month of the study, however social questionaire items differ from month to month.  A full list of the three questionaire items is provided here: -[Pulse of the Nation Questionaire Items](/Questionaire_PulseOfNation_all.docx).  For Further Information regarding the Pulse Of The Nation study at [PulseOfTheNation.com](https://thepulseofthenation.com/) 
 
 ## STAGE 1: DATA CLEANING ##
+The first step to this analysis was create a dataframe containing only variables common to all three datasets: AGE, INCOME, EDUCATIONAL LEVEL, RACE, SEX, and POLITICAL PARTY AFFILIATION.  I used EXCEL to first omit the variables which were not required for the analysis, and then join all of the observations into one large dataframe equalling the total n of 1605.  Unfortunately missing data brought this down to 1002.    
 
-To begin preprocessing I selected their shared variables: Income, Gender, Age, Educational Level, and Political Party Affiliation.
