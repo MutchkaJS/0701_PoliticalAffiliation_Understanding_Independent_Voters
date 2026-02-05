@@ -1,0 +1,1517 @@
+Income,Gender,Age,EdLevel,Race,Party
+8000,Female,64,'College degree',White,Democrat
+68000,Female,56,'High school',Black,Democrat
+46000,Male,63,'Some college',White,Independent
+51000,Male,48,'High school',White,Republican
+100000,Female,32,'Some college',White,Democrat
+54000,Female,64,'Some college',White,Democrat
+83000,Male,61,'College degree',White,Independent
+114000,Female,64,'College degree',White,Republican
+90000,Female,64,'High school',White,Republican
+5000,Female,68,'Some college',White,Democrat
+57000,Female,63,'College degree',White,Democrat
+47000,Female,44,'High school',White,Independent
+39000,Female,57,'College degree',White,Democrat
+5000,Female,62,'College degree',White,Democrat
+84000,Male,62,'College degree',White,Republican
+104000,Male,46,'Graduate degree',White,Independent
+8000,Female,60,'Some college',White,DK/REF
+23000,Female,62,'High school',Other,Democrat
+55000,Female,40,'College degree',White,Republican
+80000,Female,48,'College degree',Latino,Independent
+194000,Female,54,'College degree',White,Democrat
+82000,Male,62,'College degree',White,Republican
+22000,Female,50,'High school',White,Democrat
+54000,Female,59,'Some college',White,Democrat
+79000,Female,30,'College degree',White,Independent
+5000,Female,60,'Some college',Black,Democrat
+60000,Male,70,'College degree',Black,Democrat
+39000,Male,19,'High school',White,Independent
+58000,Male,61,'College degree',Black,Independent
+54000,Female,57,'High school',White,Democrat
+73000,Male,36,'College degree',White,DK/REF
+26000,Female,63,'High school',White,Democrat
+48000,Female,63,'College degree',White,Republican
+61000,Female,55,'High school',White,Independent
+67000,Female,56,'College degree',White,Republican
+58000,Male,54,DK/REF,White,DK/REF
+30000,Female,74,'High school',White,Independent
+52000,Female,33,'College degree',White,DK/REF
+41000,Female,78,'Some college',White,Republican
+106000,Male,45,'College degree',White,DK/REF
+21000,Male,41,'High school',White,Democrat
+107000,Male,76,'College degree',White,Independent
+53000,Female,65,'College degree',White,Republican
+26000,Male,48,'Graduate degree',White,Independent
+126000,Male,46,'Some college',White,Independent
+179000,Male,50,'Graduate degree',Latino,Republican
+122000,Female,48,'College degree',White,Republican
+113000,Female,54,'Graduate degree',White,Independent
+140000,Male,21,'Some college',Black,Independent
+207000,Female,48,'Graduate degree',White,Independent
+182000,Female,42,'Graduate degree',White,Independent
+128000,Female,50,'Some college',White,Independent
+71000,Female,40,'Graduate degree',White,Independent
+70000,Male,52,'Some college',White,Republican
+77000,Male,18,'High school',White,Republican
+96000,Female,61,'College degree',White,Democrat
+57000,Female,60,'College degree',White,Republican
+101000,Male,45,'College degree',Latino,Independent
+152000,Male,30,'College degree',White,Republican
+35000,Male,63,'Graduate degree',White,Republican
+109000,Male,51,'College degree',White,Democrat
+87000,Male,56,'High school',White,Republican
+79000,Female,62,'Graduate degree',White,Democrat
+73000,Female,46,'Some college',White,Democrat
+89000,Female,83,'High school',White,DK/REF
+250000,Male,48,'College degree',White,Democrat
+93000,Female,54,'Some college',Latino,Independent
+21000,Female,64,'College degree',White,Democrat
+80000,Female,62,'College degree',White,Republican
+133000,Male,53,'College degree',White,Independent
+74000,Female,85,'Graduate degree',White,Democrat
+67000,Male,55,'Some college',White,Democrat
+77000,Female,18,'Some college',White,DK/REF
+112000,Female,59,'Graduate degree',Asian,Democrat
+71000,Female,58,'Some college',Asian,DK/REF
+52000,Female,61,'Some college',White,Independent
+22000,Female,64,'Some college',White,Independent
+136000,Female,64,'College degree',White,Republican
+167000,Male,65,'College degree',White,Independent
+76000,Male,60,'Graduate degree',DK/REF,Independent
+32000,Female,60,'College degree',Black,Democrat
+110000,Female,44,'College degree',White,Republican
+80000,Female,22,'College degree',White,DK/REF
+114000,Male,56,'Graduate degree',White,Independent
+236000,Male,52,'Graduate degree',White,Independent
+25000,Female,45,'High school',Latino,Democrat
+143000,Male,52,'Graduate degree',DK/REF,DK/REF
+17000,Female,63,'Some college',Black,Independent
+138000,Male,49,'College degree',White,Democrat
+100000,Male,19,'Some college',White,Independent
+104000,Female,70,'College degree',White,Democrat
+85000,Female,60,'Graduate degree',Black,Democrat
+202000,Male,40,'Graduate degree',White,Independent
+41000,Female,41,'College degree',White,Independent
+65000,Female,50,'Some college',Black,Independent
+147000,Male,64,'College degree',White,Democrat
+97000,Female,53,'College degree',Asian,Independent
+105000,Male,68,'Graduate degree',White,Independent
+132000,Male,60,'Some college',DK/REF,Independent
+153000,Female,58,'Graduate degree',White,Republican
+17000,Female,53,'Some college',Black,Democrat
+45000,Female,26,'High school',Latino,Independent
+35000,Male,58,'High school',Black,Democrat
+90000,Female,37,'College degree',White,Independent
+62000,Male,52,'Graduate degree',White,Independent
+71000,Female,56,'High school',White,DK/REF
+118000,Male,50,'Some college',White,Republican
+159000,Female,47,'College degree',White,Democrat
+5000,Female,55,'High school',White,Republican
+97000,Female,61,'College degree',White,Republican
+19000,Female,54,'Some college',White,Republican
+200000,Female,52,'Some college',White,DK/REF
+51000,Female,71,'Some college',White,Republican
+7000,Female,58,'High school',White,Republican
+56000,Female,59,'High school',White,Democrat
+140000,Female,42,'Graduate degree',White,Democrat
+31000,Female,38,'College degree',White,Independent
+93000,Female,64,'Some college',White,Democrat
+32000,Female,59,'Graduate degree',Latino,Democrat
+59000,Female,29,'Some college',White,Democrat
+150000,Male,65,'High school',White,Republican
+132000,Male,52,'Some college',White,Republican
+172000,Male,40,'High school',White,DK/REF
+25000,Female,52,'High school',White,Independent
+54000,Male,60,'High school',White,Republican
+55000,Female,59,'College degree',White,Democrat
+44000,Male,56,'Graduate degree',DK/REF,DK/REF
+51000,Male,61,'Some college',White,Republican
+39000,Female,57,'Graduate degree',White,Independent
+26000,Male,49,'College degree',DK/REF,Independent
+70000,Female,72,'High school',White,Republican
+174000,Female,68,'Graduate degree',White,Democrat
+100000,Female,59,'Graduate degree',White,Republican
+132000,Male,57,'College degree',White,Independent
+48000,Male,64,'Graduate degree',Asian,Republican
+92000,Female,56,'Graduate degree',White,Independent
+25000,Female,33,'Graduate degree',Black,Democrat
+22000,Female,40,'Some college',White,DK/REF
+57000,Female,57,'Some college',White,Republican
+170000,Male,63,'College degree',White,Independent
+92000,Female,57,'Some college',White,Independent
+91000,Female,48,'College degree',White,Independent
+10000,Female,55,'College degree',DK/REF,Independent
+48000,Female,60,'Some college',White,Independent
+105000,Female,59,'High school',White,Independent
+52000,Male,51,'Graduate degree',White,Democrat
+90000,Female,64,'College degree',White,Republican
+39000,Female,75,'High school',Black,Democrat
+120000,Male,53,'High school',White,Democrat
+34000,Female,65,'High school',White,DK/REF
+180000,Female,40,'College degree',White,Republican
+150000,Male,45,'College degree',Black,Republican
+164000,Female,26,'High school',White,Democrat
+83000,Male,64,'College degree',White,Independent
+79000,Male,60,'Some college',White,Independent
+32000,Male,64,'College degree',White,Independent
+327000,Female,55,'College degree',White,Independent
+62000,Female,62,'College degree',White,Republican
+180000,Female,64,'Some college',White,Republican
+70000,Female,49,'Some college',Black,Independent
+103000,Female,58,'Some college',White,Republican
+20000,Female,60,'High school',Other,DK/REF
+57000,Male,47,'Graduate degree',White,Independent
+90000,Female,55,DK/REF,White,DK/REF
+78000,Female,58,Other,DK/REF,DK/REF
+132000,Female,61,'College degree',White,Democrat
+73000,Male,61,'Graduate degree',White,Republican
+42000,Female,57,'Graduate degree',White,Republican
+21000,Female,69,'High school',Black,Democrat
+163000,Male,58,'College degree',White,Independent
+25000,Female,63,'High school',White,Independent
+88000,Female,44,'High school',White,Independent
+22000,Male,70,'Graduate degree',White,Independent
+43000,Male,63,'College degree',White,Democrat
+90000,Male,60,'College degree',DK/REF,Republican
+47000,Female,60,'High school',White,Independent
+120000,Male,52,'Graduate degree',DK/REF,Independent
+10000,Female,38,'High school',Other,Independent
+10000,Female,61,'Some college',White,Independent
+55000,Female,62,'High school',White,Independent
+113000,Male,40,'Graduate degree',White,Independent
+137000,Female,40,'College degree',White,Republican
+9000,Female,61,'College degree',White,Republican
+37000,Female,68,'High school',White,Democrat
+39000,Female,32,'Some college',White,Democrat
+13000,Female,55,'Some college',White,Republican
+47000,Female,58,'High school',Black,Republican
+72000,Male,60,'Some college',White,Independent
+37000,Male,58,'College degree',White,Independent
+69000,Male,55,'Some college',Other,Independent
+208000,Male,55,'Graduate degree',Latino,Independent
+75000,Female,59,'Some college',White,Republican
+30000,Female,57,'College degree',White,DK/REF
+23000,Male,62,'High school',Black,Democrat
+8000,Male,34,'Some college',White,Independent
+114000,Male,40,'Graduate degree',White,Republican
+129000,Female,45,'Some college',Latino,Democrat
+94000,Male,51,'High school',White,Democrat
+129000,Male,63,'Graduate degree',White,Republican
+177000,Male,63,'Some college',White,Republican
+30000,Female,62,'Some college',White,DK/REF
+12000,Male,35,'College degree',White,DK/REF
+135000,Male,57,'College degree',White,Democrat
+87000,Male,50,'High school',Black,Independent
+52000,Male,65,'College degree',White,Independent
+86000,Male,55,'High school',White,DK/REF
+93000,Female,51,'Graduate degree',White,Independent
+183000,Female,80,'College degree',White,Democrat
+169000,Female,61,'College degree',White,Independent
+13000,Other,22,'College degree',DK/REF,DK/REF
+102000,Female,61,'Graduate degree',White,Democrat
+71000,Male,60,'Some college',White,Independent
+101000,Male,54,'College degree',White,Republican
+198000,Female,54,'College degree',White,Democrat
+153000,Female,60,'College degree',White,Republican
+43000,Male,56,'High school',Latino,Democrat
+5000,Male,64,'High school',White,Democrat
+61000,Female,29,'College degree',Latino,Democrat
+42000,Female,20,'Some college',White,Democrat
+65000,Male,28,'Some college',Asian,Democrat
+203000,Male,50,'Graduate degree',White,Republican
+168000,Female,58,Other,Latino,Independent
+130000,Female,36,'Graduate degree',White,Independent
+105000,Female,64,'Graduate degree',White,Republican
+69000,Male,62,'High school',White,Democrat
+41000,Female,53,'Some college',White,Independent
+18000,Female,83,'Some college',White,Republican
+152000,Male,35,'College degree',White,Independent
+73000,Female,53,'Some college',White,Independent
+42000,Female,40,'College degree',White,Independent
+68000,Female,48,'Some college',Latino,Democrat
+162000,Other,48,'Graduate degree',White,Independent
+10000,Female,43,'College degree',Black,Democrat
+48000,Female,23,'Some college',Latino,Democrat
+126000,Other,42,'Graduate degree',Black,Independent
+9000,Female,70,Other,White,Democrat
+122000,Male,65,'Some college',White,DK/REF
+163000,Female,47,'College degree',White,Independent
+38000,Male,45,'College degree',White,Republican
+78000,Female,38,'High school',White,Independent
+103000,Male,51,'College degree',White,Independent
+64000,Male,28,'College degree',White,Democrat
+166000,Male,28,'Some college',White,Independent
+102000,Male,49,'High school',White,Republican
+86000,Male,69,'Some college',White,Democrat
+74000,Male,38,'College degree',White,Independent
+146000,Female,46,'Graduate degree',White,Independent
+74000,Female,45,'Graduate degree',White,Republican
+36000,Female,87,'Some college',White,DK/REF
+106000,Male,50,'Graduate degree',White,Independent
+127000,Female,85,DK/REF,White,DK/REF
+24000,Female,28,'College degree',White,Independent
+8000,Female,50,'High school',White,Republican
+60000,Male,39,'Graduate degree',White,Democrat
+167000,Female,34,'Some college',White,Independent
+43000,Male,50,'High school',White,Independent
+121000,Female,49,'Graduate degree',White,Democrat
+74000,Female,42,'Some college',White,Democrat
+101000,Female,42,'Graduate degree',DK/REF,Democrat
+30000,Female,49,'College degree',White,Democrat
+80000,Male,50,'College degree',White,Republican
+72000,Other,70,'Graduate degree',DK/REF,Independent
+81000,Female,27,'Graduate degree',Latino,DK/REF
+54000,Female,54,'Some college',White,Republican
+23000,Male,73,'High school',Asian,Independent
+44000,Female,44,'Some college',White,DK/REF
+159000,Female,45,'College degree',White,Democrat
+163000,Male,45,'Graduate degree',White,DK/REF
+44000,Female,80,'High school',White,Democrat
+47000,Female,45,Other,White,Democrat
+124000,Female,80,'College degree',White,Independent
+97000,Other,32,'High school',Latino,Independent
+220000,Male,45,'College degree',Latino,Democrat
+16000,Female,68,'College degree',Latino,Democrat
+170000,Male,46,'Graduate degree',White,Democrat
+92000,Male,99,'College degree',DK/REF,Republican
+223000,Female,84,'Graduate degree',Black,Independent
+102000,Male,37,'High school',Other,Independent
+68000,Male,44,'Some college',White,Republican
+160000,Male,65,'College degree',White,Democrat
+70000,Female,38,'High school',White,Independent
+56000,Male,68,'College degree',DK/REF,Independent
+38000,Male,51,'College degree',White,Republican
+64000,Male,54,'Some college',White,Democrat
+124000,Female,37,'Graduate degree',White,Republican
+7000,Female,66,'College degree',White,Democrat
+43000,Female,65,'Some college',Black,Independent
+12000,Other,72,'Some college',White,Republican
+34000,Male,65,'Some college',White,Democrat
+87000,Male,22,'Some college',White,DK/REF
+58000,Male,51,'High school',White,Republican
+260000,Female,43,'Some college',White,Independent
+139000,Male,32,'College degree',White,Democrat
+211000,Female,65,'College degree',White,Independent
+73000,Female,71,'Some college',Asian,DK/REF
+72000,Male,65,'High school',White,Independent
+9000,Female,40,'Graduate degree',Black,Democrat
+30000,Female,68,'High school',White,Republican
+101000,Female,51,'College degree',White,Democrat
+32000,Male,39,'College degree',White,Republican
+168000,Female,51,'College degree',White,Independent
+75000,Male,83,'Some college',White,Democrat
+27000,Male,52,'College degree',White,Republican
+32000,Male,53,'Some college',White,DK/REF
+93000,Female,66,'Graduate degree',White,Democrat
+29000,Female,37,'College degree',White,Independent
+131000,Male,53,'High school',White,DK/REF
+62000,Female,18,'High school',Black,Democrat
+10000,Male,43,'College degree',White,Independent
+24000,Female,65,'Some college',White,Independent
+107000,Male,76,'Graduate degree',White,Democrat
+204000,Female,35,'Graduate degree',White,Independent
+75000,Male,40,'College degree',White,Independent
+12000,Female,48,'Graduate degree',Black,Democrat
+144000,Male,36,'College degree',White,Independent
+79000,Female,48,'College degree',Black,Democrat
+28000,Female,68,'Graduate degree',White,Independent
+25000,Male,53,'Some college',Black,Independent
+5000,Female,43,'Some college',Black,Democrat
+10000,Female,76,DK/REF,Latino,Independent
+42000,Male,30,DK/REF,Latino,Independent
+63000,Male,23,'High school',White,DK/REF
+32000,Male,51,'High school',Latino,Democrat
+58000,Female,53,'High school',White,Independent
+135000,Female,51,'Graduate degree',White,Independent
+81000,Female,66,'High school',White,Independent
+46000,Male,50,'Graduate degree',DK/REF,Democrat
+95000,Female,47,'Graduate degree',White,Republican
+23000,Female,50,'Graduate degree',Black,DK/REF
+38000,Male,41,'College degree',White,Republican
+68000,Other,86,'Graduate degree',Latino,Republican
+177000,Female,54,'Graduate degree',White,Republican
+79000,Male,69,'Some college',White,Democrat
+46000,Female,47,'High school',Latino,DK/REF
+106000,Male,37,'Some college',DK/REF,DK/REF
+73000,Female,38,'College degree',White,Democrat
+18000,Male,46,'College degree',White,Republican
+17000,Female,52,'High school',White,DK/REF
+135000,Male,65,'College degree',White,DK/REF
+61000,Male,35,'College degree',White,DK/REF
+57000,Female,50,'College degree',White,Republican
+56000,Female,51,'Some college',White,Democrat
+14000,Other,96,'Graduate degree',Asian,Independent
+98000,Male,47,'Graduate degree',White,Democrat
+142000,Female,53,'College degree',White,Independent
+211000,Female,48,'Some college',White,Republican
+47000,Male,51,'High school',White,Independent
+72000,Female,65,'High school',White,DK/REF
+55000,Other,47,'Some college',Asian,Republican
+116000,Male,48,'Graduate degree',Asian,Independent
+9000,Other,48,'High school',White,Democrat
+35000,Male,30,'High school',White,Republican
+5000,Female,48,Other,White,DK/REF
+23000,Female,51,'Some college',Black,Democrat
+90000,Female,48,'Some college',White,Democrat
+9000,Male,22,'High school',White,Independent
+131000,Female,51,'Some college',White,Independent
+176000,Male,38,'Graduate degree',White,DK/REF
+92000,Male,58,'Graduate degree',White,DK/REF
+137000,Male,51,'College degree',White,Independent
+39000,Female,48,'Some college',White,Independent
+80000,Female,37,'High school',White,Independent
+60000,Male,50,'High school',Black,Democrat
+114000,Female,45,'Some college',White,Independent
+89000,Male,52,'Some college',White,Republican
+11000,Female,41,'Some college',White,DK/REF
+16000,Female,65,'Some college',Latino,Democrat
+125000,Male,53,'College degree',White,Republican
+92000,Male,43,'High school',White,Independent
+161000,Male,28,'College degree',White,Independent
+74000,Other,22,'College degree',Latino,Independent
+148000,Female,58,'Graduate degree',White,Independent
+85000,Female,58,'High school',White,Republican
+44000,Male,54,'Some college',White,Democrat
+165000,Male,65,'Graduate degree',White,Independent
+14000,Male,65,'Graduate degree',White,Independent
+179000,Male,51,'College degree',White,DK/REF
+62000,Other,56,'High school',White,Democrat
+179000,Female,49,'College degree',Latino,Independent
+39000,Female,49,'High school',White,Republican
+85000,Female,63,'High school',DK/REF,Independent
+45000,Female,58,'High school',White,Independent
+37000,Female,59,'Graduate degree',Black,DK/REF
+148000,Female,60,'College degree',White,Republican
+80000,Female,55,'College degree',White,Republican
+40000,Female,61,'Some college',Black,Democrat
+181000,Male,53,'High school',White,Republican
+65000,Female,55,'College degree',White,Independent
+76000,Female,57,'Some college',White,Democrat
+74000,Male,49,'Some college',White,Republican
+162000,Male,50,'College degree',White,Republican
+45000,Male,83,'High school',White,DK/REF
+157000,Female,46,'College degree',Asian,Republican
+161000,Male,35,'College degree',White,Democrat
+41000,Female,62,'Graduate degree',White,Republican
+103000,Male,60,'College degree',White,Republican
+91000,Male,65,'College degree',White,Republican
+188000,Male,47,'College degree',White,DK/REF
+21000,Female,43,'High school',White,Independent
+103000,Male,58,'Some college',White,Independent
+27000,Male,59,'Graduate degree',White,Independent
+326000,Female,58,'Graduate degree',White,Democrat
+74000,Female,66,'Some college',White,Democrat
+86000,Male,60,DK/REF,DK/REF,Democrat
+77000,Other,55,'Graduate degree',Black,Independent
+47000,Male,47,'College degree',White,Democrat
+56000,Female,53,Other,White,Independent
+68000,Male,72,'Graduate degree',White,Republican
+153000,Female,60,'Some college',White,Republican
+64000,Female,51,'Some college',Other,Republican
+138000,Male,51,'High school',White,Republican
+79000,Female,50,'College degree',White,DK/REF
+64000,Male,60,'College degree',White,Republican
+124000,Female,50,'Graduate degree',White,Democrat
+113000,Female,58,'Some college',Other,DK/REF
+155000,Male,55,'College degree',White,Independent
+13000,Male,45,'College degree',DK/REF,Democrat
+100000,Male,50,'Graduate degree',DK/REF,DK/REF
+140000,Female,62,'Some college',White,Democrat
+105000,Male,75,'Some college',Asian,Democrat
+127000,Female,50,'Some college',Latino,DK/REF
+84000,Female,45,'Graduate degree',White,Independent
+104000,Male,59,'Graduate degree',DK/REF,Independent
+192000,Female,35,'College degree',White,'Strong Republican'
+132000,Male,40,'Graduate degree',White,'Not Strong Republican'
+54000,Female,58,'Some college',White,Independent
+32000,Female,56,'High school',Black,'Strong Democrat'
+26000,Female,34,'High school',White,Independent
+20000,Male,50,Other,White,'Not Strong Democrat'
+28000,Female,59,'High school',White,Independent
+156000,Female,43,'Some college',White,'Strong Republican'
+21000,Female,40,'College degree',White,Independent
+23000,Female,43,'Some college',White,Independent
+118000,Female,45,Other,Latino,'Not Strong Republican'
+132000,Female,34,'Graduate degree',White,'Strong Democrat'
+57000,Female,40,'Some college',White,'Not Strong Democrat'
+164000,Female,42,'Graduate degree',Black,'Strong Democrat'
+141000,Other,40,'College degree',DK/REF,DK/REF
+98000,Male,38,'College degree',White,'Strong Democrat'
+9000,Female,35,'High school',Latino,'Strong Democrat'
+27000,Male,34,'Some college',White,Independent
+130000,Male,35,'Graduate degree',Black,DK/REF
+75000,Other,20,Other,White,DK/REF
+236000,Female,44,'Graduate degree',White,'Not Strong Democrat'
+132000,Male,36,'Graduate degree',White,'Strong Democrat'
+43000,Female,82,'Some college',White,'Strong Democrat'
+105000,Female,40,'Graduate degree',White,'Strong Democrat'
+142000,Female,51,'Some college',White,'Strong Democrat'
+33000,Female,36,'College degree',Latino,Independent
+39000,Male,41,'Graduate degree',White,'Strong Republican'
+15000,Female,51,'High school',Black,'Strong Democrat'
+91000,Female,74,'College degree',White,'Not Strong Republican'
+43000,Female,41,'College degree',White,DK/REF
+18000,Male,24,'High school',White,DK/REF
+47000,Other,60,'Graduate degree',White,Independent
+37000,Male,38,'Graduate degree',White,Independent
+217000,Female,37,'Graduate degree',Black,'Strong Democrat'
+16000,Male,23,'Some college',White,Independent
+47000,Male,33,'Some college',White,'Not Strong Democrat'
+103000,Female,72,'Graduate degree',White,'Not Strong Republican'
+150000,Female,35,'Graduate degree',White,'Strong Democrat'
+31000,Female,31,'Some college',DK/REF,Independent
+78000,Male,50,'Graduate degree',Black,'Strong Democrat'
+121000,Female,36,'Graduate degree',White,'Strong Democrat'
+53000,Female,76,'Some college',Black,'Strong Democrat'
+53000,Female,35,'Graduate degree',Black,Independent
+65000,Female,65,'College degree',Latino,Independent
+60000,Female,70,'High school',Black,'Not Strong Republican'
+17000,Male,41,'High school',White,Independent
+51000,Male,40,'College degree',Black,DK/REF
+137000,Male,40,'Graduate degree',White,Independent
+129000,Male,38,'College degree',White,'Not Strong Democrat'
+37000,Male,33,'College degree',White,'Strong Republican'
+69000,Male,44,'College degree',White,'Not Strong Republican'
+126000,Male,42,'College degree',DK/REF,Independent
+30000,Female,35,'High school',Latino,'Not Strong Democrat'
+19000,Male,52,'High school',White,'Not Strong Democrat'
+8000,Female,66,'High school',Latino,'Strong Republican'
+22000,Male,48,'High school',White,Independent
+30000,Female,48,'Some college',White,'Strong Democrat'
+62000,Male,38,'College degree',White,'Strong Democrat'
+143000,Female,66,'High school',Latino,'Strong Democrat'
+45000,Male,45,'Some college',Other,Independent
+28000,Female,58,'Graduate degree',White,DK/REF
+79000,Male,38,'College degree',Latino,Independent
+33000,Male,83,'High school',Black,'Strong Democrat'
+95000,Male,38,'Some college',White,DK/REF
+96000,Female,46,'Some college',White,Independent
+129000,Male,38,'Graduate degree',White,'Not Strong Republican'
+80000,Male,35,'College degree',White,DK/REF
+66000,Male,30,'College degree',Latino,Independent
+28000,Female,53,'College degree',Black,'Strong Democrat'
+7000,Male,41,'Graduate degree',White,'Strong Democrat'
+49000,Male,43,'Some college',White,Independent
+21000,Male,41,'High school',White,'Strong Republican'
+19000,Female,32,'High school',White,'Strong Democrat'
+58000,Male,44,'Graduate degree',White,Independent
+78000,Male,37,'Some college',White,'Strong Republican'
+30000,Female,74,'High school',Latino,Independent
+32000,Male,55,'Some college',Latino,'Strong Democrat'
+64000,Female,52,'Some college',Black,'Not Strong Republican'
+9000,Female,70,'Graduate degree',Asian,DK/REF
+203000,Female,47,'College degree',White,'Strong Democrat'
+77000,Female,52,'Some college',White,'Strong Republican'
+124000,Male,44,'Graduate degree',White,'Strong Democrat'
+21000,Female,57,'Some college',Black,'Strong Democrat'
+25000,Female,19,'Some college',Latino,'Strong Democrat'
+136000,Male,43,'Some college',White,Independent
+172000,Female,65,'Graduate degree',White,Independent
+97000,Female,44,'College degree',White,'Strong Democrat'
+129000,Male,37,'College degree',White,'Strong Republican'
+5000,Female,41,'High school',Black,'Strong Democrat'
+172000,Female,59,'Graduate degree',DK/REF,DK/REF
+21000,Male,20,'Some college',White,'Strong Democrat'
+65000,Female,63,'High school',Black,'Strong Democrat'
+56000,Female,42,'High school',White,'Not Strong Republican'
+50000,Male,34,'High school',White,Independent
+152000,Male,45,'Graduate degree',White,'Not Strong Republican'
+147000,Female,41,'College degree',White,'Not Strong Republican'
+178000,Male,37,'Graduate degree',White,'Not Strong Democrat'
+6000,Female,34,'Some college',White,Independent
+45000,Female,42,'College degree',White,'Not Strong Democrat'
+33000,Female,43,'Graduate degree',White,Independent
+82000,Female,37,'College degree',White,Independent
+79000,Male,42,'Some college',White,Independent
+80000,Male,44,'High school',White,Independent
+255000,Female,40,'College degree',White,DK/REF
+52000,Male,42,'High school',White,'Strong Republican'
+22000,Female,44,'Graduate degree',White,Independent
+31000,Female,50,'High school',White,'Strong Republican'
+58000,Male,48,'College degree',White,'Not Strong Republican'
+65000,Female,54,'Some college',White,'Strong Democrat'
+30000,Male,58,'Graduate degree',White,'Strong Democrat'
+28000,Male,33,'Some college',White,'Strong Democrat'
+37000,Male,58,'Some college',White,'Not Strong Republican'
+118000,Female,35,'Graduate degree',White,Independent
+216000,Female,42,'Graduate degree',White,'Strong Democrat'
+37000,Female,32,'Some college',Latino,'Not Strong Democrat'
+117000,Female,40,'Graduate degree',White,'Not Strong Democrat'
+43000,Male,36,'College degree',White,Independent
+41000,Male,99,'College degree',White,DK/REF
+104000,Male,36,'Some college',White,'Strong Democrat'
+96000,Female,64,'College degree',White,'Strong Democrat'
+14000,Male,42,'Graduate degree',White,'Not Strong Democrat'
+179000,Male,37,'College degree',Black,'Strong Democrat'
+101000,Female,38,'Graduate degree',White,Independent
+193000,Male,47,'Graduate degree',White,Independent
+89000,Female,42,'Graduate degree',White,'Strong Democrat'
+82000,Female,42,'Graduate degree',Black,'Strong Democrat'
+50000,Female,19,'High school',White,DK/REF
+62000,Male,55,'Graduate degree',Black,Independent
+66000,Male,30,'College degree',White,'Strong Republican'
+42000,Female,40,'College degree',White,Independent
+18000,Female,27,'High school',White,DK/REF
+13000,Female,64,'High school',Latino,'Not Strong Democrat'
+39000,Female,47,'College degree',Black,'Strong Democrat'
+77000,Female,19,'High school',Other,Independent
+144000,Male,36,'College degree',White,'Strong Republican'
+55000,Male,43,'Some college',Latino,Independent
+34000,Female,36,'Some college',White,Independent
+10000,Female,25,'Some college',Latino,Independent
+42000,Male,75,'High school',Latino,DK/REF
+12000,Male,59,'High school',White,Independent
+24000,Female,19,'Some college',Latino,DK/REF
+322000,Female,66,'Graduate degree',Black,'Strong Democrat'
+24000,Male,35,'College degree',White,'Strong Republican'
+50000,Male,44,'College degree',Latino,'Strong Democrat'
+173000,Male,40,'College degree',White,Independent
+16000,Female,74,'High school',Latino,'Strong Democrat'
+38000,Female,38,'High school',White,'Not Strong Democrat'
+13000,Male,34,'Graduate degree',Black,Independent
+67000,Male,35,'College degree',White,'Strong Republican'
+16000,Female,34,'High school',Latino,Independent
+42000,Male,43,'Graduate degree',White,Independent
+118000,Female,34,Other,Latino,'Not Strong Democrat'
+21000,Other,35,'Some college',White,Independent
+252000,Female,41,'Graduate degree',White,'Strong Democrat'
+24000,Male,70,'Some college',Black,Independent
+92000,Female,61,'Some college',White,Independent
+9000,Female,63,'Graduate degree',Black,'Strong Democrat'
+178000,Male,44,'College degree',White,'Not Strong Democrat'
+38000,Male,30,'Graduate degree',White,'Strong Republican'
+248000,Female,48,'College degree',White,'Not Strong Democrat'
+42000,Female,40,'College degree',White,Independent
+212000,Male,43,'Graduate degree',Latino,Independent
+53000,Female,47,'Some college',Latino,'Strong Republican'
+95000,Female,40,'College degree',White,DK/REF
+80000,Male,76,'Some college',White,'Strong Republican'
+44000,Female,65,'College degree',Black,'Strong Democrat'
+124000,Male,44,'Graduate degree',White,Independent
+31000,Female,44,'Some college',Black,Independent
+57000,Female,29,'Some college',White,'Strong Republican'
+27000,Male,30,'College degree',Latino,'Strong Democrat'
+6000,Male,42,'College degree',Latino,Independent
+21000,Male,37,'College degree',White,'Strong Republican'
+91000,Female,37,'Some college',White,Independent
+136000,Male,58,'College degree',White,'Strong Democrat'
+60000,Female,69,'High school',White,Independent
+30000,Female,56,'Graduate degree',White,Independent
+26000,Female,30,'High school',White,'Not Strong Republican'
+200000,Female,44,'College degree',White,'Strong Republican'
+107000,Female,47,'Graduate degree',White,Independent
+109000,Female,68,'High school',Black,DK/REF
+190000,Male,44,'College degree',White,Independent
+236000,Female,44,'Graduate degree',White,'Strong Republican'
+111000,Female,54,'Some college',White,'Strong Republican'
+39000,Female,34,'High school',White,Independent
+33000,Male,72,'Graduate degree',Black,Independent
+47000,Female,76,'College degree',White,'Strong Democrat'
+142000,Male,33,'College degree',Black,Independent
+6000,Female,54,'Some college',Black,'Strong Democrat'
+33000,Female,63,'High school',Black,'Strong Democrat'
+153000,Female,34,'Graduate degree',White,'Not Strong Republican'
+157000,Male,71,'Graduate degree',White,'Strong Republican'
+32000,Other,42,'Graduate degree',White,'Strong Republican'
+145000,Female,36,'College degree',Black,'Not Strong Democrat'
+7000,Male,59,'High school',Latino,'Strong Democrat'
+138000,Female,39,'College degree',White,'Not Strong Republican'
+37000,Female,38,'High school',White,Independent
+144000,Male,33,'High school',DK/REF,'Strong Republican'
+32000,Female,63,'College degree',White,'Strong Democrat'
+227000,Male,61,'College degree',White,'Strong Democrat'
+124000,Male,39,'Some college',Latino,Independent
+72000,Male,37,'College degree',Other,Independent
+15000,Female,67,'High school',Black,DK/REF
+27000,Female,54,'High school',DK/REF,DK/REF
+90000,Female,30,'Graduate degree',White,Independent
+7000,Female,35,'College degree',White,Independent
+100000,Female,42,'Some college',Black,'Strong Democrat'
+12000,Male,73,'College degree',Latino,Independent
+6000,Male,30,'High school',Latino,DK/REF
+107000,Male,29,'Graduate degree',White,'Strong Republican'
+18000,Male,47,'High school',White,Independent
+86000,Female,41,'High school',Black,'Strong Democrat'
+89000,Male,41,'High school',White,Independent
+31000,Male,31,'College degree',White,'Strong Republican'
+9000,DK/REF,76,'High school',Black,Independent
+84000,Male,30,'College degree',White,'Not Strong Republican'
+9000,Female,44,'Some college',White,'Strong Republican'
+49000,Male,18,'High school',White,'Strong Republican'
+57000,Male,39,Other,White,DK/REF
+34000,Male,72,'High school',White,'Not Strong Democrat'
+11000,Female,74,'High school',White,Independent
+123000,Female,34,'Graduate degree',White,'Strong Democrat'
+200000,Male,41,'College degree',White,'Not Strong Republican'
+61000,Female,47,'High school',Latino,'Strong Democrat'
+77000,Female,65,'High school',Black,'Not Strong Democrat'
+90000,Female,45,'College degree',White,'Strong Republican'
+53000,Female,69,'Some college',White,'Not Strong Republican'
+16000,Female,70,'Some college',Black,'Strong Democrat'
+67000,Male,33,Other,White,Independent
+12000,Female,44,'College degree',White,Independent
+47000,Male,65,'Graduate degree',White,Independent
+265000,Male,40,'College degree',White,'Strong Republican'
+58000,Female,85,'Some college',White,Independent
+5000,Female,30,'High school',White,Independent
+105000,Female,40,'College degree',White,DK/REF
+63000,Male,64,'High school',White,'Strong Democrat'
+119000,Male,40,'High school',White,'Not Strong Republican'
+35000,Female,25,'Some college',Latino,Independent
+83000,Male,65,'Graduate degree',White,'Strong Republican'
+61000,Female,40,'College degree',DK/REF,'Not Strong Democrat'
+5000,Male,53,'High school',Black,Independent
+52000,Female,38,'College degree',White,'Strong Democrat'
+129000,Female,72,'High school',White,Independent
+57000,Female,47,'Some college',White,Independent
+130000,Male,45,'Graduate degree',White,'Strong Republican'
+52000,Male,59,'Some college',White,'Strong Republican'
+264000,Female,37,'College degree',White,DK/REF
+25000,Female,50,'College degree',White,DK/REF
+61000,Male,38,'High school',White,'Strong Democrat'
+69000,Male,64,'College degree',White,'Strong Democrat'
+89000,Male,38,'High school',White,Independent
+22000,Female,45,'High school',Black,'Strong Democrat'
+24000,Female,40,'College degree',Black,Independent
+93000,Male,18,'High school',Latino,Independent
+118000,Female,37,'College degree',White,'Strong Republican'
+34000,Female,35,'Some college',Black,'Strong Democrat'
+21000,Female,61,'Some college',White,Independent
+26000,Female,65,'High school',Black,'Strong Democrat'
+25000,Female,61,'High school',White,'Strong Republican'
+47000,Female,70,'College degree',White,DK/REF
+75000,Male,44,'Graduate degree',Asian,'Not Strong Democrat'
+7000,Male,72,'High school',White,'Strong Republican'
+52000,DK/REF,71,'College degree',Black,'Strong Democrat'
+19000,Male,39,'College degree',White,'Strong Democrat'
+109000,Male,45,'Graduate degree',White,'Not Strong Democrat'
+5000,Female,35,'Some college',Black,'Strong Democrat'
+40000,Female,25,'College degree',Latino,Independent
+5000,Female,30,'High school',Latino,Independent
+40000,Female,50,'Some college',Latino,'Strong Democrat'
+39000,Female,74,'Some college',Latino,'Not Strong Democrat'
+278000,Female,37,'Graduate degree',Latino,'Not Strong Democrat'
+21000,Male,32,'High school',Latino,Independent
+106000,Female,43,'College degree',White,'Not Strong Democrat'
+9000,Female,83,'Some college',White,'Strong Democrat'
+10000,Female,58,'High school',Other,Independent
+9000,Female,80,Other,Black,'Strong Democrat'
+36000,Female,18,'Some college',Latino,Independent
+23000,Male,35,'College degree',Other,Independent
+59000,Male,51,'College degree',Asian,Independent
+7000,Male,40,'High school',Latino,DK/REF
+73000,Female,34,'College degree',White,'Strong Democrat'
+14000,Female,59,'Some college',Black,'Strong Democrat'
+77000,Female,33,'College degree',DK/REF,'Not Strong Republican'
+146000,Male,39,'Graduate degree',Other,Independent
+40000,Female,61,'Graduate degree',White,'Strong Democrat'
+105000,Male,38,'College degree',White,'Strong Democrat'
+80000,Male,78,'College degree',White,'Strong Democrat'
+49000,Female,46,'College degree',Black,'Strong Democrat'
+87000,Male,44,'College degree',White,Independent
+137000,Other,90,'College degree',DK/REF,Independent
+62000,Female,64,'Graduate degree',White,Independent
+55000,Female,44,'Graduate degree',White,'Strong Democrat'
+191000,Male,41,'Graduate degree',White,Independent
+24000,Male,47,'Some college',White,'Not Strong Republican'
+70000,Female,37,'Some college',Black,'Strong Democrat'
+85000,Male,18,'Graduate degree',DK/REF,DK/REF
+42000,Female,83,'High school',Black,Independent
+135000,Male,70,'Graduate degree',DK/REF,'Strong Republican'
+46000,Male,37,'High school',White,'Strong Democrat'
+70000,Other,65,'College degree',White,Independent
+200000,Male,42,'College degree',Latino,'Not Strong Democrat'
+120000,Male,77,'College degree',White,Independent
+60874.494118,Male,65,'Some college',White,Independent
+62450.729412,Male,50,'Some college',White,DK/REF
+34918.134328,Female,69,'High school or less',Black,'Strong Democrat'
+98096.607143,Male,26,'College degree',White,Independent
+75037.093333,Female,53,Other,White,'Strong Republican'
+83872.457627,Female,66,'High school or less',White,'Not Strong Democrat'
+40,Female,21,'Some college',White,'Not Strong Republican'
+80000,Other,70,'Some college',DK/REF,Independent
+140,Male,64,'Some college',Latino,'Not Strong Democrat'
+90000,Male,33,'College degree',White,'Not Strong Republican'
+100000,Male,47,'College degree',White,Independent
+59034.973684,Female,66,'Some college',White,'Not Strong Republican'
+80000,Male,37,'Some college',White,'Strong Republican'
+106738.641026,Female,92,'Graduate degree',White,'Strong Democrat'
+111127.09589,Male,65,'College degree',Other,Independent
+62229.690476,Male,22,'Some college',White,'Strong Republican'
+20000,Male,79,'Some college',White,Independent
+17000,Male,69,'High school or less',White,Independent
+75,Female,38,'Graduate degree',Black,'Not Strong Democrat'
+75000,Male,69,'High school or less',Black,'Strong Democrat'
+92045.594595,Female,60,'College degree',White,Independent
+112886.103896,Male,67,'College degree',White,DK/REF
+40000,Male,68,'High school or less',White,'Not Strong Democrat'
+114959.204819,Female,53,'Graduate degree',White,Independent
+50000,Male,60,'High school or less',White,'Strong Republican'
+67754.043662,Male,47,'High school or less',Black,'Strong Democrat'
+40000,Female,67,'College degree',White,'Not Strong Republican'
+40496.123288,Female,50,'High school or less',Black,'Strong Democrat'
+35000,Male,63,'College degree',White,Independent
+63292.013253,Female,58,'Graduate degree',Black,DK/REF
+90000,Male,60,'Some college',Latino,'Strong Democrat'
+60000,Male,64,'Some college',White,Independent
+44730.314286,Female,54,'High school or less',Latino,DK/REF
+64559.012346,Male,50,'Some college',DK/REF,Independent
+50000,Male,67,'College degree',White,Independent
+50000,Male,48,'Some college',Latino,Independent
+91989.055556,Female,70,'College degree',White,DK/REF
+50000,Male,68,'Some college',White,'Strong Republican'
+140000,Male,53,'College degree',White,'Not Strong Republican'
+74776.25,Female,18,'College degree',DK/REF,DK/REF
+15,Male,40,'Some college',Latino,'Strong Democrat'
+28000,Female,63,'College degree',White,DK/REF
+111658,Female,52,'Graduate degree',White,'Strong Republican'
+4000,Female,40,'High school or less',White,Independent
+120000,Male,77,'College degree',White,Independent
+75000,Male,48,'Graduate degree',White,'Not Strong Republican'
+25000,Male,62,'Some college',White,'Strong Democrat'
+20000,Female,69,'Some college',White,Independent
+98096.607143,Male,26,'College degree',White,Independent
+15000,Male,61,'High school or less',Black,Independent
+89000,Female,58,'College degree',White,Independent
+40,Female,21,'Some college',White,'Not Strong Republican'
+2077,Female,64,'Graduate degree',White,'Not Strong Democrat'
+90000,Male,33,'College degree',White,'Not Strong Republican'
+200000,Male,42,'College degree',Latino,'Not Strong Democrat'
+11000,Other,75,'High school or less',White,'Strong Republican'
+130000,Female,43,'Graduate degree',White,'Not Strong Republican'
+59034.973684,Female,66,'Some college',White,'Not Strong Republican'
+80000,Male,37,'Some college',White,'Strong Republican'
+60,Male,70,'College degree',White,'Strong Republican'
+106738.641026,Female,92,'Graduate degree',White,'Strong Democrat'
+34918.134328,Female,69,'High school or less',Black,'Strong Democrat'
+83872.457627,Female,66,'High school or less',White,'Not Strong Democrat'
+25000,Female,56,'Some college',Black,'Strong Democrat'
+62229.690476,Male,22,'Some college',White,'Strong Republican'
+80000,Other,70,'Some college',DK/REF,Independent
+50000,Female,46,'College degree',Black,'Strong Democrat'
+17000,Male,69,'High school or less',White,Independent
+25000,Female,62,'Some college',Black,'Strong Democrat'
+75000,Male,69,'High school or less',Black,'Strong Democrat'
+140,Male,64,'Some college',Latino,'Not Strong Democrat'
+26000,Female,63,'Some college',White,Independent
+75,Female,38,'Graduate degree',Black,'Not Strong Democrat'
+92045.594595,Female,60,'College degree',White,Independent
+50000,Male,60,'High school or less',White,'Strong Republican'
+41,Female,53,'High school or less',White,Independent
+35000,Male,63,'College degree',White,Independent
+97889.594937,Female,47,'College degree',Other,'Strong Democrat'
+60000,Male,64,'Some college',White,Independent
+78000,Female,56,'High school or less',White,'Not Strong Republican'
+40000,Male,68,'High school or less',White,'Not Strong Democrat'
+50000,Male,67,'College degree',White,Independent
+67754.043662,Male,47,'High school or less',Black,'Strong Democrat'
+70000,Male,55,'Some college',White,'Strong Republican'
+40496.123288,Female,50,'High school or less',Black,'Strong Democrat'
+50000,Male,68,'Some college',White,'Strong Republican'
+74776.25,Female,18,'College degree',DK/REF,DK/REF
+25000,Male,55,'Some college',White,'Not Strong Republican'
+90000,Male,60,'Some college',Latino,'Strong Democrat'
+111658,Female,52,'Graduate degree',White,'Strong Republican'
+64559.012346,Male,50,'Some college',DK/REF,Independent
+50000,Male,48,'Some college',Latino,Independent
+4000,Female,40,'High school or less',White,Independent
+140000,Male,53,'College degree',White,'Not Strong Republican'
+75000,Male,48,'Graduate degree',White,'Not Strong Republican'
+20000,Female,69,'Some college',White,Independent
+37694.632353,Female,66,'High school or less',Black,'Not Strong Democrat'
+15000,Male,61,'High school or less',Black,Independent
+112821.168831,Male,63,'College degree',White,Independent
+11000,Other,75,'High school or less',White,'Strong Republican'
+130000,Female,43,'Graduate degree',White,'Not Strong Republican'
+100000,Male,35,'Graduate degree',White,'Not Strong Republican'
+980,Female,65,'High school or less',White,'Strong Democrat'
+100000,Female,40,'College degree',White,'Strong Republican'
+99102.897727,Male,40,'College degree',White,Independent
+150,Male,37,'Graduate degree',White,Independent
+12000,Male,65,'High school or less',White,'Strong Democrat'
+88000,Female,53,'College degree',White,Independent
+106207.675,Female,65,'Graduate degree',White,Independent
+150000,Male,54,'High school or less',White,Independent
+38904.464789,Female,56,'High school or less',Black,DK/REF
+85083.72093,Female,42,'College degree',Black,'Strong Democrat'
+17000,Male,62,'Graduate degree',White,Independent
+63822.106667,Female,60,'Some college',White,'Strong Democrat'
+60,Male,70,'College degree',White,'Strong Republican'
+47,Female,62,'College degree',White,'Not Strong Democrat'
+118160.921053,Male,62,'College degree',White,'Not Strong Republican'
+83872.457627,Female,66,'High school or less',White,DK/REF
+25000,Female,56,'Some college',Black,'Strong Democrat'
+99165.3375,Female,50,'College degree',White,Independent
+50000,Female,46,'College degree',Black,'Strong Democrat'
+50000,Female,54,'Some college',White,'Strong Democrat'
+73171.359375,Male,48,'High school or less',Other,Independent
+50,DK/REF,54,'Some college',DK/REF,Independent
+25000,Female,62,'Some college',Black,'Strong Democrat'
+25000,Female,65,'Some college',Black,'Strong Democrat'
+106738.641026,Female,68,'Graduate degree',White,Independent
+26000,Female,63,'Some college',White,Independent
+13000,Female,60,'High school or less',Black,'Strong Democrat'
+117379.61039,Male,60,'College degree',White,Independent
+41,Female,53,'High school or less',White,Independent
+51727.951613,Female,90,'High school or less',White,'Strong Republican'
+48000,Female,48,'High school or less',White,Independent
+97889.594937,Female,47,'College degree',Other,'Strong Democrat'
+135000,Male,65,'Graduate degree',White,'Strong Democrat'
+78000,Female,56,'High school or less',White,'Not Strong Republican'
+24,Female,60,'College degree',Other,DK/REF
+70000,Male,55,'Some college',White,'Strong Republican'
+300000,Female,39,'Graduate degree',White,'Strong Democrat'
+20,Female,49,'High school or less',Black,'Not Strong Republican'
+90185.830986,Female,63,'College degree',White,'Strong Republican'
+60874.494118,Male,60,'Some college',White,'Strong Republican'
+70000,Other,65,'College degree',White,Independent
+25000,Male,55,'Some college',White,'Not Strong Republican'
+70000,Male,45,'Some college',Black,Independent
+60874.494118,Male,65,'Some college',White,Independent
+37694.632353,Female,66,'High school or less',Black,'Not Strong Democrat'
+62450.729412,Male,50,'Some college',White,DK/REF
+112821.168831,Male,63,'College degree',White,Independent
+51727.951613,Female,90,'High school or less',White,'Strong Democrat'
+75037.093333,Female,53,Other,White,'Strong Republican'
+100000,Male,35,'Graduate degree',White,'Not Strong Republican'
+100000,Male,47,'College degree',White,Independent
+63822.106667,Female,60,'Some college',White,'Strong Democrat'
+111127.09589,Male,65,'College degree',Other,Independent
+118160.921053,Male,62,'College degree',White,'Not Strong Republican'
+20000,Male,79,'Some college',White,Independent
+112886.103896,Male,67,'College degree',White,DK/REF
+73171.359375,Male,48,'High school or less',Other,Independent
+114959.204819,Female,53,'Graduate degree',White,Independent
+25000,Female,65,'Some college',Black,'Strong Democrat'
+40000,Female,67,'College degree',White,'Not Strong Republican'
+13000,Female,60,'High school or less',Black,'Strong Democrat'
+63292.013253,Female,58,'Graduate degree',Black,DK/REF
+48000,Female,48,'High school or less',White,Independent
+44730.314286,Female,54,'High school or less',Latino,DK/REF
+24,Female,60,'College degree',Other,DK/REF
+91989.055556,Female,70,'College degree',White,DK/REF
+300000,Female,39,'Graduate degree',White,'Strong Democrat'
+15,Male,40,'Some college',Latino,'Strong Democrat'
+100057.552632,Female,56,'College degree',White,'Not Strong Democrat'
+30000,Female,65,'College degree',White,'Not Strong Republican'
+28000,Female,63,'College degree',White,DK/REF
+60874.494118,Male,59,'Some college',White,DK/REF
+10000,Male,48,'Some college',DK/REF,'Strong Democrat'
+25000,Male,62,'Some college',White,'Strong Democrat'
+112886.103896,Male,65,'College degree',White,Independent
+65401.367089,Female,50,'Some college',White,'Strong Republican'
+89000,Female,58,'College degree',White,Independent
+12000,Male,45,'Some college',White,DK/REF
+2077,Female,64,'Graduate degree',White,'Not Strong Democrat'
+85000,Female,54,'High school or less',White,'Strong Democrat'
+58000,Female,57,'Graduate degree',White,Independent
+100000,Female,20,'Some college',Other,'Not Strong Democrat'
+97413.117647,Male,38,'College degree',White,Independent
+70000,Male,32,'Graduate degree',White,'Strong Democrat'
+15000,Female,69,'Graduate degree',White,Independent
+30000,Male,70,'High school or less',White,DK/REF
+50000,Female,30,'College degree',White,'Strong Democrat'
+63073.619718,Female,61,'High school or less',White,'Strong Republican'
+18,Female,59,'Some college',White,'Not Strong Democrat'
+75000,Male,71,'Graduate degree',White,'Strong Republican'
+115187.036145,Female,36,'Graduate degree',White,Independent
+106207.675,Female,64,'Graduate degree',White,'Strong Democrat'
+180,Female,48,'College degree',White,'Not Strong Republican'
+12,Male,65,'Graduate degree',Asian,Independent
+125000,Male,36,'College degree',White,Independent
+35000,Other,42,'High school or less',Other,DK/REF
+112821.168831,Male,63,'College degree',White,Independent
+66282.794118,Female,55,'High school or less',White,Independent
+78990.486111,Female,63,'High school or less',White,'Strong Republican'
+70000,Male,32,'Graduate degree',White,Independent
+92045.594595,Female,60,'College degree',White,'Strong Democrat'
+30000,Female,68,'Some college',White,'Strong Republican'
+60000,Male,53,'High school or less',White,'Strong Republican'
+59034.973684,Female,66,'Some college',White,DK/REF
+20000,Male,41,'High school or less',White,Independent
+50000,Female,74,'Graduate degree',White,'Not Strong Democrat'
+110,Female,62,'Graduate degree',White,DK/REF
+100000,Male,39,'High school or less',White,Independent
+117500.289157,Female,49,'Graduate degree',White,'Strong Democrat'
+123662.840909,Male,48,'College degree',White,'Not Strong Democrat'
+57000,Male,29,'High school or less',White,Independent
+150000,Male,60,'College degree',White,'Not Strong Republican'
+110000,Male,50,Other,Other,Independent
+120000,Male,56,'High school or less',Black,'Strong Republican'
+112886.103896,Male,64,'College degree',White,Independent
+62450.729412,Male,50,'Some college',White,'Strong Republican'
+120000,Other,60,'College degree',White,DK/REF
+45000,Male,44,'Some college',White,'Strong Republican'
+30000,Male,60,'College degree',Other,Independent
+62229.690476,Male,21,'Some college',White,DK/REF
+111068.131868,Female,40,'Graduate degree',Latino,'Strong Democrat'
+700,Female,51,'High school or less',White,'Strong Democrat'
+35000,Female,23,'Graduate degree',White,'Not Strong Republican'
+59048.773333,Female,64,'Some college',White,DK/REF
+65148.843373,DK/REF,39,'Some college',DK/REF,Independent
+59034.973684,Female,65,'Some college',White,'Strong Republican'
+50000,Male,48,'College degree',Black,'Strong Democrat'
+81584.097222,Male,32,'High school or less',Latino,'Strong Democrat'
+49922.857143,Female,21,'High school or less',Latino,Independent
+91989.055556,Female,69,'College degree',White,'Strong Democrat'
+100000,Male,61,'College degree',White,'Not Strong Democrat'
+93453.43662,Female,61,'College degree',White,Independent
+50,Female,40,'Some college',White,'Not Strong Republican'
+93000,Male,57,'High school or less',White,Independent
+5000,Female,56,'Some college',White,Independent
+350,Male,36,'Graduate degree',White,'Strong Republican'
+100000,Male,74,'Graduate degree',Asian,DK/REF
+98096.607143,Male,28,'College degree',White,Independent
+42264.546512,DK/REF,99,'Some college',Latino,'Strong Democrat'
+75000,Male,59,'Some college',White,Independent
+112821.168831,Male,63,'College degree',White,Independent
+20000,Female,29,'High school or less',Black,'Strong Democrat'
+92780.472222,Female,66,'College degree',White,'Strong Democrat'
+114959.204819,Female,53,'Graduate degree',White,'Strong Democrat'
+140000,Male,63,'High school or less',White,Independent
+175000,Male,30,Other,White,Independent
+100000,Male,58,'College degree',White,'Strong Republican'
+90171.896552,Female,68,'High school or less',DK/REF,Independent
+19999,Other,19,'High school or less',DK/REF,DK/REF
+200000,Male,52,'College degree',White,'Strong Republican'
+130,Male,36,'Graduate degree',White,'Strong Republican'
+20000,Female,52,'High school or less',White,Independent
+20000,Male,23,'College degree',Latino,Independent
+25000,Female,59,'Some college',Black,Independent
+90000,Male,52,'High school or less',Other,DK/REF
+30000,Female,67,'High school or less',White,Independent
+18,Female,82,'College degree',White,Independent
+100000,Male,57,'Graduate degree',White,'Strong Democrat'
+70,Male,50,'Some college',White,Independent
+55226.628358,Male,66,'High school or less',Black,'Strong Democrat'
+50,Female,45,'College degree',Latino,Independent
+100000,Female,50,'Graduate degree',White,Independent
+80000,Male,36,'High school or less',White,'Strong Republican'
+98096.607143,Male,18,'College degree',White,DK/REF
+77593.82716,Female,34,'College degree',DK/REF,DK/REF
+115187.036145,Female,36,'Graduate degree',White,DK/REF
+18,Male,69,'Some college',White,'Strong Democrat'
+108263.057971,Female,99,DK/REF,DK/REF,'Strong Republican'
+35000,Male,20,'Some college',DK/REF,Independent
+65158.512821,Male,19,'Some college',Asian,Independent
+40000,Female,35,'College degree',White,DK/REF
+91989.055556,Female,72,'College degree',White,Independent
+14,Male,33,'Some college',White,Independent
+12000,Other,43,'Graduate degree',DK/REF,DK/REF
+110000,Male,41,'Some college',White,'Not Strong Republican'
+57449.292683,Female,61,'College degree',Black,Independent
+15000,Female,63,'High school or less',DK/REF,'Strong Republican'
+123583.037975,Male,54,'College degree',White,'Strong Democrat'
+105635.945946,Male,60,'College degree',Black,'Strong Democrat'
+60000,Female,46,'College degree',Latino,Independent
+76507.471264,Female,39,'College degree',Black,'Strong Democrat'
+90000,Female,38,'College degree',White,'Not Strong Republican'
+80000,Male,43,'College degree',White,DK/REF
+40000,Male,60,Other,DK/REF,Independent
+120177.135135,Male,60,'College degree',Other,DK/REF
+50000,Male,87,'High school or less',White,Independent
+85000,Male,65,'Some college',White,Independent
+49000,Female,45,'High school or less',Black,DK/REF
+96940.925,Female,51,'College degree',White,Independent
+106207.675,Female,64,'Graduate degree',White,'Strong Democrat'
+83830.662651,Male,24,'College degree',DK/REF,Independent
+117172.904762,Female,47,'Graduate degree',White,'Strong Republican'
+99359.721519,Female,53,'Graduate degree',Other,Independent
+40000,Female,68,'College degree',White,'Not Strong Democrat'
+70,Male,24,'High school or less',White,Independent
+99561.74026,Other,64,'College degree',White,Independent
+40000,Female,65,'Some college',White,'Strong Democrat'
+150000,Male,38,'College degree',White,'Strong Republican'
+80000,Male,63,'High school or less',White,Independent
+100000,Female,49,'High school or less',White,Independent
+81584.097222,Male,34,'High school or less',Latino,Independent
+70000,Female,57,'Graduate degree',White,'Strong Democrat'
+33000,Male,66,'College degree',White,'Strong Republican'
+64648.512195,Female,22,'Some college',White,Independent
+111263.585366,Female,58,'Graduate degree',White,'Strong Republican'
+100000,Male,23,'College degree',White,Independent
+20,Male,82,'Some college',White,Independent
+30000,Male,26,'Some college',Asian,Independent
+30000,Male,30,'College degree',White,'Strong Republican'
+50000,Female,20,'High school or less',Asian,'Not Strong Democrat'
+30000,Male,20,'College degree',White,Independent
+60874.494118,Male,66,'Some college',White,'Strong Republican'
+300000,Male,66,Other,DK/REF,'Strong Republican'
+60000,Female,66,'Graduate degree',Other,Independent
+200000,Male,61,'College degree',White,Independent
+52505.075758,Female,28,'High school or less',White,'Not Strong Democrat'
+1120,Female,66,'High school or less',Latino,'Strong Democrat'
+20000,Male,61,'Some college',Black,'Strong Republican'
+30000,Female,22,'College degree',White,'Not Strong Democrat'
+125954.512195,Male,51,'College degree',White,Independent
+15,Female,54,'High school or less',Black,Independent
+1500,Male,84,'High school or less',Black,'Strong Democrat'
+55000,Male,19,'Some college',Black,Independent
+52460.469136,Male,65,'Some college',Black,'Strong Democrat'
+25000,Female,24,'Some college',Latino,Independent
+6000,Male,57,'Graduate degree',Black,'Strong Democrat'
+64581.287879,Female,69,'High school or less',White,Independent
+39779.9125,Female,73,'Some college',Latino,'Strong Democrat'
+66764.024096,Female,62,'Graduate degree',Black,'Strong Democrat'
+140000,Male,54,'High school or less',Black,Independent
+200,Female,59,'Graduate degree',White,'Not Strong Republican'
+75000,Male,61,'Graduate degree',White,Independent
+300000,Male,50,'High school or less',White,'Strong Democrat'
+100000,Male,20,'Some college',Latino,Independent
+30000,Male,50,'Graduate degree',Other,DK/REF
+71249.134831,Female,25,'College degree',Latino,'Not Strong Democrat'
+130000,Male,37,'Some college',White,Independent
+100000,Female,50,'Some college',White,'Not Strong Republican'
+50000,Male,50,'High school or less',White,Independent
+20000,Male,56,'High school or less',White,'Strong Democrat'
+117379.61039,Male,60,'College degree',White,'Not Strong Republican'
+40000,Female,25,'Graduate degree',Black,'Strong Democrat'
+63822.106667,Female,60,'Some college',White,Independent
+60874.494118,Male,65,'Some college',White,'Strong Republican'
+110000,Male,23,'Graduate degree',White,'Strong Democrat'
+100000,Female,58,'College degree',White,'Strong Democrat'
+62116.481481,Male,56,'Some college',Latino,Independent
+24000,Male,24,'Some college',White,Independent
+61545.148148,Female,58,'College degree',Black,'Strong Democrat'
+120000,Male,39,'Some college',White,Independent
+40000,Male,32,'Graduate degree',White,'Not Strong Republican'
+15000,Female,31,'High school or less',Black,'Strong Democrat'
+40000,Female,47,'High school or less',Latino,Independent
+60000,Male,86,'College degree',White,Independent
+100000,Female,40,'Graduate degree',White,'Not Strong Democrat'
+25000,Male,29,'Some college',White,Independent
+60000,Male,39,'College degree',DK/REF,'Not Strong Democrat'
+35,Male,50,'Graduate degree',White,Independent
+24000,Female,66,'High school or less',White,'Strong Democrat'
+60000,Male,45,'College degree',White,'Strong Republican'
+99165.3375,Female,50,'College degree',White,'Strong Republican'
+65401.367089,Female,50,'Some college',White,Independent
+25000,Male,53,'High school or less',Latino,Independent
+250000,Male,50,'College degree',White,Independent
+123583.037975,Male,54,'College degree',White,Independent
+64648.512195,Female,32,'Some college',White,DK/REF
+132000,Female,54,'Graduate degree',White,'Not Strong Republican'
+108516.022727,Male,44,'College degree',Latino,'Not Strong Democrat'
+100000,Female,51,'College degree',White,'Strong Democrat'
+92172,Female,81,'College degree',White,'Strong Republican'
+122309.615385,Female,42,'Graduate degree',DK/REF,DK/REF
+45314.578125,Female,82,'High school or less',White,'Strong Democrat'
+47,Female,60,'College degree',White,Independent
+100000,Male,40,'College degree',White,'Strong Republican'
+75000,Male,49,'College degree',White,Independent
+100000,Male,58,'High school or less',White,Independent
+7000,Male,31,'Some college',White,Independent
+30000,Male,60,'High school or less',White,Independent
+50000,Male,31,'Some college',White,Independent
+59034.973684,Female,66,'Some college',White,'Strong Republican'
+100000,Female,33,'College degree',White,Independent
+70000,Male,52,'Some college',White,Independent
+10000,Male,75,'Graduate degree',White,'Strong Republican'
+20000,Male,35,'College degree',Black,Independent
+45803.046875,Female,18,'High school or less',White,'Not Strong Democrat'
+75000,Male,64,'College degree',White,Independent
+130000,Male,63,'Graduate degree',White,'Strong Republican'
+50000,Female,52,'Some college',White,'Strong Republican'
+62729.920455,Female,20,'Some college',Asian,'Not Strong Democrat'
+25000,Female,70,'College degree',DK/REF,Independent
+25000,Female,50,'Graduate degree',White,DK/REF
+30,Female,19,'Some college',White,Independent
+50000,Female,30,'College degree',Latino,'Not Strong Democrat'
+29000,Female,64,'Some college',Latino,'Strong Democrat'
+64559.012346,Male,50,'Some college',DK/REF,'Strong Democrat'
+112886.103896,Male,65,'College degree',White,'Strong Republican'
+45928.264706,Female,56,'High school or less',Latino,'Strong Democrat'
+25000,Female,40,'Some college',Other,'Strong Republican'
+107516.436782,Male,40,'College degree',DK/REF,'Not Strong Republican'
+39826.985294,Female,62,'High school or less',Black,'Strong Democrat'
+35000,Male,50,'Some college',Black,'Strong Democrat'
+50000,Female,50,'Graduate degree',Other,'Strong Republican'
+66632.923077,Male,63,'Some college',Other,'Strong Republican'
+20000,Female,72,'Some college',White,'Strong Republican'
+62229.690476,Male,42,'Some college',White,'Not Strong Republican'
+43848.266667,Female,64,'Some college',Black,DK/REF
+101799.761905,Female,45,'College degree',White,'Strong Republican'
+800,Female,60,'High school or less',White,Independent
+23000,Female,64,'High school or less',White,'Strong Republican'
+63953.468354,Male,21,'Some college',Other,'Strong Democrat'
+80000,Female,59,'Some college',White,DK/REF
+900,Female,84,'High school or less',Black,Independent
+60000,Male,66,'Graduate degree',White,'Strong Democrat'
+58008.657895,Female,73,'Some college',White,'Strong Republican'
+80000,Female,55,'College degree',White,'Not Strong Republican'
+56000,Male,67,'Some college',White,'Strong Republican'
+9000,Male,59,'Graduate degree',White,Independent
+50000,Female,69,'High school or less',White,'Strong Democrat'
+26000,Female,70,'High school or less',White,'Not Strong Republican'
+48000,Male,69,'High school or less',White,'Strong Republican'
+74132.528571,Male,51,'High school or less',Latino,Independent
+50000,Male,35,'Some college',White,'Not Strong Republican'
+63822.106667,Female,59,'Some college',White,Independent
+97336.071429,Female,39,'College degree',White,'Strong Democrat'
+67935.948052,Female,45,'Some college',White,Independent
+16000,Female,21,'Some college',Latino,'Not Strong Democrat'
+100000,Female,48,'College degree',Latino,'Strong Democrat'
+40,Male,21,'College degree',Asian,Independent
+100000,Male,69,'College degree',White,'Strong Republican'
+66135.614286,Female,59,'High school or less',White,Independent
+30000,Male,35,'College degree',Black,'Strong Democrat'
+120,Male,38,'College degree',White,'Strong Republican'
+110000,Other,48,'Graduate degree',Black,Independent
+12000,Female,66,'College degree',White,'Strong Democrat'
+75000,Male,65,'Some college',White,'Strong Republican'
+75000,Female,43,'Some college',White,'Not Strong Republican'
+17700,Female,65,'High school or less',White,'Not Strong Democrat'
+111873.116883,Male,74,'College degree',White,'Strong Republican'
+80000,Male,38,'Graduate degree',White,Independent
+60000,Male,65,'High school or less',White,'Strong Democrat'
+40,Female,66,'Graduate degree',White,'Strong Democrat'
+80000,Male,61,'High school or less',White,'Strong Republican'
+50000,Male,68,'Some college',Other,'Strong Democrat'
+150000,Male,45,'Graduate degree',White,Independent
+40000,Female,69,'College degree',White,'Strong Democrat'
+13000,Female,56,'Some college',White,'Strong Democrat'
+40000,Male,52,'Some college',White,'Not Strong Republican'
+98096.607143,Male,20,'College degree',White,DK/REF
+83872.457627,Female,66,'High school or less',White,DK/REF
+14000,Female,71,'High school or less',White,'Strong Democrat'
+50000,Male,64,'High school or less',White,Independent
+96348.405063,Female,54,'Graduate degree',Asian,Independent
+44834.933333,Female,65,'Some college',Black,'Strong Democrat'
+117379.61039,Male,60,'College degree',White,Independent
+110000,Female,54,'College degree',White,'Not Strong Democrat'
+20000,Female,28,'College degree',Black,DK/REF
+102595.395062,Female,48,'College degree',White,Independent
+62229.690476,Male,19,'Some college',White,Independent
+250000,Male,50,'Graduate degree',Black,'Not Strong Republican'
+59687.822388,Male,84,'High school or less',Black,'Strong Democrat'
+21000,Male,30,'Some college',White,Independent
+55000,Male,32,'College degree',White,'Strong Democrat'
+60000,Male,25,'Some college',White,'Strong Democrat'
+64885.341176,Male,19,'Some college',Black,'Not Strong Democrat'
+40000,Female,42,'College degree',White,Independent
+70000,Female,53,'College degree',White,'Not Strong Republican'
+125,Male,33,'College degree',White,'Not Strong Republican'
+10000,Male,45,'Some college',Asian,DK/REF
+30000,Male,68,'Some college',White,'Strong Democrat'
+115126.608861,Male,50,'College degree',Black,DK/REF
+90000,Female,35,'Graduate degree',Black,'Not Strong Democrat'
+8000,Female,67,'Some college',White,'Strong Republican'
+200000,Female,46,'Graduate degree',White,'Strong Republican'
+150000,Female,60,'Graduate degree',White,'Strong Democrat'
+150000,Male,36,'College degree',White,Independent
+120000,Female,48,'High school or less',White,'Strong Republican'
+60,Male,29,'College degree',White,Independent
+75000,Female,50,'High school or less',White,'Strong Republican'
+106799.176471,Male,45,'College degree',White,DK/REF
+22000,Male,32,'High school or less',Latino,'Not Strong Democrat'
+70000,Female,28,'College degree',White,Independent
+64648.512195,Female,32,'Some college',White,Independent
+101537.857143,Female,46,'College degree',White,Independent
+70000,Male,46,'College degree',Black,Independent
+140000,Female,25,'College degree',White,Independent
+60000,Female,34,'College degree',White,'Strong Republican'
+120000,Male,52,'College degree',White,Independent
+50000,Male,37,'High school or less',White,'Not Strong Democrat'
+40000,Male,75,'Graduate degree',White,'Not Strong Democrat'
+175000,Female,42,'College degree',White,Independent
+75000,Male,27,'Graduate degree',White,Independent
+80000,Male,37,'Some college',White,Independent
+30000,Male,29,'High school or less',White,Independent
+50000,Male,66,'Graduate degree',White,Independent
+112044.659091,Male,46,'College degree',White,'Strong Republican'
+900,Male,67,'High school or less',Latino,DK/REF
+62229.690476,Male,33,'Some college',White,Independent
+114246.939506,Male,54,'College degree',Black,'Strong Democrat'
+157000,Male,37,'College degree',White,Independent
+20000,Female,53,'Graduate degree',White,'Strong Democrat'
+18000,Female,54,'Graduate degree',Latino,Independent
+85000,Male,34,'College degree',White,Independent
+18000,Male,30,'Some college',White,Independent
+127365.421687,Male,49,'College degree',White,'Strong Republican'
+60000,Male,59,'College degree',White,Independent
+37000,Female,22,'College degree',White,'Strong Democrat'
+24000,Female,27,'College degree',White,'Strong Democrat'
+55000,Female,44,'College degree',White,'Strong Republican'
+117500.289157,Female,50,'Graduate degree',White,Independent
+80000,Male,70,'College degree',White,'Strong Republican'
+100000,Male,33,'College degree',White,Independent
+80000,Male,37,'Graduate degree',White,'Strong Democrat'
+110423.139535,DK/REF,44,'College degree',White,Independent
+65000,Male,70,'High school or less',White,Independent
+115187.036145,Female,25,'Graduate degree',White,'Strong Democrat'
+12000,Male,50,'High school or less',White,Independent
+60000,Male,29,'Some college',White,'Strong Republican'
+34000,Female,52,'Graduate degree',Other,Independent
+90000,Female,57,'College degree',White,'Strong Democrat'
+91851.972603,Female,65,'College degree',White,'Strong Republican'
+50000,Male,63,'College degree',White,'Strong Democrat'
+35000,Male,31,'Graduate degree',Asian,DK/REF
+30000,Female,48,'Some college',White,Independent
+70000,Female,25,'College degree',Latino,'Strong Democrat'
+15000,Female,24,'Some college',Latino,'Strong Democrat'
+60874.494118,Male,74,'Some college',White,'Not Strong Republican'
+130,Male,39,'Some college',White,Independent
+100000,Male,57,'College degree',White,Independent
+76248.740741,Female,26,'College degree',Other,Independent
+90000,Female,65,'Graduate degree',White,'Not Strong Republican'
+190000,Female,34,'College degree',White,Independent
+40000,Male,63,'College degree',White,'Not Strong Republican'
+110000,Female,35,'High school or less',White,DK/REF
+55000,Male,34,'High school or less',White,'Not Strong Republican'
+95376.86747,Female,40,'College degree',Asian,'Not Strong Democrat'
+125000,Male,69,'Graduate degree',White,'Strong Democrat'
+1600,Male,35,'College degree',White,Independent
+50000,Female,55,'High school or less',White,'Not Strong Republican'
+79401.768293,Male,23,'College degree',Black,Independent
+117379.61039,Male,60,'College degree',White,'Not Strong Republican'
+10000,Female,21,'College degree',White,Independent
+96383.690476,Female,21,'College degree',White,'Strong Republican'
+90000,Male,38,'Graduate degree',White,Independent
+117379.61039,Male,60,'College degree',White,Independent
+127000,Male,53,'Graduate degree',White,Independent
+11280,Female,76,'Some college',Black,'Strong Democrat'
+2.1,Male,54,'Graduate degree',Black,'Strong Republican'
+96383.690476,Female,35,'College degree',White,'Strong Democrat'
+20000,Male,30,'College degree',White,'Strong Republican'
+91989.055556,Female,70,'College degree',White,'Not Strong Democrat'
+65000,Male,58,'High school or less',White,'Strong Republican'
+40000,Male,24,'Some college',White,Independent
+57000,Male,69,'High school or less',White,'Not Strong Republican'
+23000,Male,44,'College degree',White,'Not Strong Democrat'
+82290.625,Female,46,'College degree',Black,'Not Strong Democrat'
+43000,Male,36,'High school or less',White,Independent
+93278.425,Female,53,'College degree',White,'Not Strong Republican'
+77316.641791,Female,52,'High school or less',White,'Strong Democrat'
+126597.738095,Male,50,'College degree',White,Independent
+60000,Male,63,'College degree',White,'Not Strong Republican'
+45389.241935,Female,79,'High school or less',White,'Strong Republican'
+70000,Male,23,DK/REF,Black,DK/REF
+60874.494118,Male,58,'Some college',White,'Not Strong Republican'
+40000,Male,52,'High school or less',White,Independent
+91989.055556,Female,73,'College degree',White,'Strong Republican'
+80000,Male,57,'High school or less',White,'Not Strong Republican'
+250000,Female,47,'College degree',White,'Strong Democrat'
+91989.055556,Female,72,'College degree',White,'Strong Democrat'
+12000,Male,68,'High school or less',Black,'Strong Democrat'
+80576.903614,Other,32,'College degree',Other,DK/REF
+40000,Female,70,'Some college',Black,Independent
+50000,Female,55,'Some college',White,Independent
+64521.815789,Female,58,'Some college',White,'Strong Republican'
+50000,Male,66,'Some college',White,'Strong Republican'
+88140.058824,Male,35,'College degree',Black,Independent
+25000,Male,40,'High school or less',White,'Strong Republican'
+100000,Female,65,'Graduate degree',White,Independent
+55000,Male,69,'Some college',White,Independent
+122497.088608,Male,53,'College degree',White,Independent
+55,Male,65,'High school or less',Latino,'Not Strong Democrat'
+180000,Male,58,'Graduate degree',White,'Not Strong Republican'
+150000,Male,53,'Some college',White,Independent
+40000,Male,66,'Some college',White,Independent
+111390.296296,Female,59,'Graduate degree',White,Independent
+59034.973684,Female,65,'Some college',White,'Not Strong Democrat'
+75779.328358,Female,53,'High school or less',White,'Strong Republican'
+2000,Other,30,'Some college',White,DK/REF
+24000,Female,65,'Some college',Black,DK/REF
+50000,Male,32,'College degree',Black,'Not Strong Democrat'
+90000,Male,52,'College degree',White,'Strong Republican'
+20000,Male,50,'College degree',White,'Strong Republican'
+12000,Male,74,'High school or less',White,Independent
+50000,Male,55,'High school or less',White,'Strong Republican'
+100000,Female,69,'Some college',White,'Strong Republican'
+50,Female,30,'College degree',White,'Strong Democrat'
+121287.662338,Female,45,'Graduate degree',DK/REF,Independent
+40000,Female,52,'College degree',Asian,Independent
+45000,Female,29,'Graduate degree',White,Independent
+30000,Male,33,'College degree',White,DK/REF
+85000,Female,41,'Graduate degree',White,'Not Strong Republican'
+20000,Female,66,'High school or less',White,'Not Strong Democrat'
+106799.176471,Male,45,'College degree',White,'Strong Democrat'
+60000,Female,52,'High school or less',White,Independent
+65000,Female,53,'College degree',White,'Strong Democrat'
+30000,Female,66,'College degree',Black,'Strong Democrat'
+91989.055556,Female,71,'College degree',White,Independent
+85000,Female,48,'College degree',White,'Strong Democrat'
+200000,Male,66,'College degree',White,Independent
+8640,Female,67,'Some college',White,Independent
+68241.277778,Female,62,'High school or less',White,Independent
+100000,Female,28,'College degree',Black,Independent
+30000,Male,60,'High school or less',White,Independent
+59034.973684,Female,66,'Some college',White,'Not Strong Republican'
+50000,Female,65,'High school or less',White,'Not Strong Republican'
+50000,Female,28,'Graduate degree',Latino,Independent
+80000,Male,21,'College degree',White,'Strong Democrat'
+700,Female,63,'High school or less',Black,'Strong Democrat'
+20000,Male,65,'Some college',White,Independent
+95000,Female,35,'Graduate degree',Asian,Independent
+56000,Female,65,'College degree',White,'Strong Democrat'
+58008.657895,Female,69,'Some college',White,'Strong Republican'
+63822.106667,Female,59,'Some college',White,'Strong Democrat'
+64885.341176,Male,24,'Some college',Black,'Not Strong Democrat'
+90000,Male,68,'College degree',White,'Strong Republican'
+1000,Female,43,'High school or less',White,Independent
+45803.046875,Female,18,'High school or less',White,Independent
+40000,Female,30,'High school or less',Latino,Independent
+73,Female,25,'Some college',Latino,Independent
+85000,Male,45,'High school or less',White,Independent
+70000,Male,34,'Some college',Other,Independent
+35000,Female,58,'College degree',Black,'Strong Democrat'
+35000,Female,37,'High school or less',Black,'Not Strong Democrat'
+62029.794872,Male,18,'Some college',DK/REF,Independent
+92780.472222,Female,66,'College degree',White,Independent
+200000,Male,30,'High school or less',White,Independent
+140000,Male,56,'College degree',White,DK/REF
+953,Female,81,'High school or less',White,'Not Strong Republican'
+25000,Female,74,'Some college',White,Independent
+50000,Male,46,'High school or less',White,'Strong Republican'
+22000,Male,62,'College degree',Latino,'Strong Democrat'
+111658,Female,52,'Graduate degree',White,'Strong Republican'
+250000,Male,45,'College degree',Other,Independent
+88975.828,Female,50,'Graduate degree',Black,'Not Strong Democrat'
+68338.672857,Male,40,'High school or less',Black,'Strong Democrat'
+9000,Male,46,'College degree',White,'Not Strong Republican'
+98096.607143,Male,33,'College degree',White,'Not Strong Republican'
+40000,Male,70,Other,Other,Independent
+106738.641026,Female,67,'Graduate degree',White,'Not Strong Democrat'
+62288.773333,Female,62,'Some college',White,'Strong Republican'
+63931.272727,Female,54,'Some college',White,'Strong Republican'
+18000,Female,53,'High school or less',Latino,Independent
+78651.197183,Female,49,'High school or less',White,'Strong Republican'
+106738.641026,Female,80,'Graduate degree',White,'Strong Republican'
+36000,Male,60,'Some college',Black,'Strong Democrat'
+35000,Female,67,'Some college',Black,'Strong Democrat'
+97353.425,Female,52,'College degree',White,'Strong Democrat'
+3,Male,65,'Graduate degree',Asian,DK/REF
+50000,Female,70,'Some college',White,Independent
+45,Male,34,'Graduate degree',White,Independent
+100000,Female,68,'Graduate degree',White,Independent
+150000,Male,51,DK/REF,White,DK/REF
+100000,Female,63,'Graduate degree',White,'Strong Democrat'
+118888.068182,Female,35,'Graduate degree',Black,'Strong Democrat'
+50000,Male,63,'Some college',White,'Strong Republican'
+50,Male,70,'College degree',White,Independent
+150000,Female,60,'College degree',White,Independent
+20000,Male,47,'High school or less',Latino,'Not Strong Democrat'
+101799.761905,Female,45,'College degree',White,DK/REF
+40000,Male,73,'Some college',White,Independent
+97597.97619,Female,40,'College degree',White,DK/REF
+93278.425,Female,53,'College degree',White,'Not Strong Republican'
+80000,Male,50,'College degree',White,'Strong Republican'
+92172,Female,99,'College degree',White,'Strong Democrat'
+111873.116883,Male,69,'College degree',White,'Strong Democrat'
+48000,Male,68,'Graduate degree',White,'Strong Democrat'
+2000,Female,60,'College degree',White,'Strong Democrat'
+125000,Male,43,'Some college',DK/REF,'Not Strong Republican'
+45716.396825,Female,84,'High school or less',White,'Strong Republican'
+59848.129412,Female,53,'Some college',Latino,DK/REF
+30000,Male,50,'High school or less',White,'Strong Republican'
+50000,Male,54,'College degree',White,DK/REF
+55000,Female,62,'High school or less',White,'Strong Republican'
+25000,Female,78,'College degree',White,'Strong Democrat'
+59034.973684,Female,65,'Some college',White,Independent
+80,Male,33,'Some college',White,DK/REF
+62247.813953,Male,47,'Some college',White,DK/REF
+80000,Male,62,'Some college',White,'Strong Republican'
+17000,Female,38,'Graduate degree',White,'Not Strong Democrat'
+70000,Male,50,'College degree',White,Independent
+91851.972603,Female,65,'College degree',White,'Strong Democrat'
+100000,Female,66,'High school or less',White,'Strong Republican'
+50000,Female,62,'Graduate degree',White,'Strong Democrat'
+106738.641026,Female,78,'Graduate degree',White,Independent
+42685.974026,Female,74,'Some college',Black,'Strong Democrat'
+12000,Female,58,'College degree',White,'Strong Republican'
+300000,Female,50,'Graduate degree',Other,Independent
+137559.620253,Male,50,'College degree',Other,Independent
+120000,Male,57,'Some college',White,'Strong Republican'
+200000,Male,58,'Graduate degree',Black,'Strong Democrat'
+150000,Female,37,'Graduate degree',Asian,Independent
+100000,Female,63,'College degree',White,'Strong Republican'
+88744.921053,Female,69,'Graduate degree',DK/REF,DK/REF
+91989.055556,Female,68,'College degree',White,'Strong Democrat'
+65000,Male,26,'College degree',Black,'Strong Democrat'
+200000,Male,45,'Graduate degree',White,DK/REF
+35000,Female,28,'College degree',White,Independent
+100000,Male,51,'College degree',White,Independent
+83225.208333,Female,38,'High school or less',White,DK/REF
+81584.097222,Male,18,'High school or less',Latino,Independent
+60000,Male,50,'College degree',Black,DK/REF
+51666.453488,Female,50,'Some college',Black,'Strong Democrat'
+93278.425,Female,53,'College degree',White,'Strong Democrat'
+100,Other,25,'High school or less',Black,DK/REF
+100000,Male,44,'College degree',White,Independent
+106738.641026,Female,72,'Graduate degree',White,Independent
+140000,Male,29,'College degree',White,'Strong Democrat'
+85000,Female,62,'College degree',White,'Strong Republican'
+100000,Male,54,'High school or less',Black,'Not Strong Republican'
+64528.025974,Female,56,'Some college',White,DK/REF
+82200.71875,Other,65,'High school or less',Latino,DK/REF
+45803.046875,Female,20,'High school or less',White,Independent
+64581.287879,Female,69,'High school or less',White,DK/REF
+42113.421053,Female,70,'Some college',Black,'Strong Democrat'
+75000,Female,40,'College degree',White,Independent
+100000,Male,40,'College degree',White,'Strong Republican'
+160000,Female,66,'Graduate degree',Other,'Not Strong Democrat'
+100000,Male,36,'College degree',White,Independent
+120000,Male,40,'High school or less',White,'Strong Democrat'
+25000,Female,21,'Some college',White,'Strong Republican'
+24000,Female,70,'Some college',White,'Strong Republican'
+32000,Female,28,'College degree',Black,'Strong Democrat'
+45000,Female,62,'Graduate degree',White,'Not Strong Republican'
+45000,Male,37,'College degree',White,'Strong Democrat'
+40000,Other,29,'High school or less',Other,DK/REF
+150000,Male,31,'Some college',Latino,Independent
+210,Male,44,'College degree',White,'Not Strong Republican'
+81339.036145,Female,25,'College degree',Asian,Independent
+97675.755814,Male,34,'College degree',White,Independent
+64809.194444,Female,60,'High school or less',White,Independent
+50000,Male,41,'Some college',White,'Strong Republican'
+120000,Male,44,'College degree',White,'Strong Democrat'
+91989.055556,Female,67,'College degree',White,'Strong Republican'
+38000,Female,35,'High school or less',White,DK/REF
+45000,Male,24,'Some college',White,Independent
+50000,Male,70,'Graduate degree',White,'Not Strong Republican'
+60,Female,59,'Graduate degree',White,Independent
+80000,Male,47,'Some college',Asian,DK/REF
+20000,Other,19,'High school or less',White,'Not Strong Democrat'
+97675.755814,Male,34,'College degree',White,'Not Strong Republican'
+116637.190476,Female,46,'Graduate degree',White,'Strong Democrat'
+58008.657895,Female,74,'Some college',White,'Strong Republican'
+100000,DK/REF,47,'College degree',DK/REF,Independent
+6000,Female,74,'Some college',White,Independent
+120000,Female,36,'Graduate degree',White,Independent
+200000,Male,47,'Graduate degree',White,'Strong Democrat'
+50000,Female,60,'Graduate degree',White,'Strong Democrat'
+60000,Female,64,'Some college',White,'Strong Republican'
+22000,Male,53,'Some college',Asian,Independent
+40000,Male,20,'College degree',Asian,'Strong Democrat'
+12,Male,61,'High school or less',White,'Strong Republican'
+50000,Male,40,'High school or less',White,'Strong Republican'
+60,Male,62,'College degree',White,'Strong Republican'
+80000,Male,35,'Some college',White,'Not Strong Republican'
+98847.97619,Female,44,'College degree',White,'Strong Republican'
+68972.377049,Female,72,'High school or less',White,Independent
+75000,Male,60,'College degree',White,Independent
+60874.494118,Male,68,'Some college',White,Independent
+50,Female,68,'Graduate degree',White,'Not Strong Democrat'
+21000,Female,64,'Graduate degree',White,'Strong Democrat'
+64648.512195,Female,18,'Some college',White,Independent
+100000,Female,70,'Graduate degree',White,'Strong Republican'
+20000,Male,21,'High school or less',White,'Strong Republican'
+30000,Female,64,'High school or less',White,Independent
+25000,Female,65,'Some college',Black,'Strong Democrat'
+93016.816901,Female,62,'College degree',White,'Strong Republican'
+68241.277778,Female,62,'High school or less',White,'Not Strong Democrat'
+64581.287879,Female,69,'High school or less',White,'Strong Republican'
+98140.872093,Male,35,'College degree',White,'Not Strong Republican'
+100000,Male,55,'Graduate degree',White,Independent
+50000,Female,43,'Some college',White,'Strong Republican'
+10000,Female,22,'College degree',Black,'Strong Democrat'
+57976.148148,Female,57,'Some college',DK/REF,Independent
+100000,Female,52,'Graduate degree',White,'Strong Democrat'
+58008.657895,Female,68,'Some college',White,'Strong Republican'
+32000,Male,19,'Some college',White,'Not Strong Democrat'
+35000,Female,47,'Some college',White,'Strong Republican'
+32000,Female,62,'College degree',White,DK/REF
+16000,Male,63,'High school or less',White,'Not Strong Democrat'
+92045.594595,Female,60,'College degree',White,'Strong Republican'
+35000,Female,45,'Some college',Latino,'Strong Democrat'
