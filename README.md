@@ -27,7 +27,7 @@ The second step to this analysis was to identify outliers.  WEKA was used to ide
 
 
 ## STAGE 2: DESCRIPTIVE UNIVARIATE ANALYSIS ##
-Logistic regression makes no assumptions regarding normality for its independent variables.  Nontheless, the distributions are provided here to help better understand the data.  In the event that error estimate appear inflated, we can come back and transform them and compare the AIC measures of the raw & tranformed variables after conducting the logistic regression. To create the following charts, utilize the attached file - [Descriptive Univariate Analysis R-script](/
+Logistic regression makes no assumptions regarding normality for its independent variables.  Nontheless, the distributions are provided here to help better understand the data.  In the event that error estimate appear inflated, we can come back and transform them and compare the AIC measures of the raw & tranformed variables after conducting the logistic regression. To create the following charts, utilize the attached file - [Descriptive Univariate Analysis R-script](/descriptives_allVariables_logisticRegression.R)
 
 <table align="center">
 <tr>
