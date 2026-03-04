@@ -48,4 +48,11 @@ Logistic regression makes no assumptions regarding normality for its independent
 </tr>
 </table>
 
+<img width="281" height="241" alt="image" src="https://github.com/user-attachments/assets/e682a6ee-33dd-4844-bf5b-43bd5fde486d" />
+<img width="282" height="503" alt="image" src="https://github.com/user-attachments/assets/719dcef8-f46d-4881-ad76-28d534e9f5a6" />
+<img width="292" height="310" alt="image" src="https://github.com/user-attachments/assets/4e0f6f27-49c2-4a09-93b9-bbcfbdc35bb0" />
+<img width="298" height="483" alt="image" src="https://github.com/user-attachments/assets/5c0d1ced-764a-4427-8446-d69305bac19b" />
+
+
+
 
