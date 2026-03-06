@@ -49,7 +49,7 @@ Logistic regression makes no assumptions regarding normality for its independent
 </table>
 
 
-<div style="border: 3px solid #333; border-radius: 12px; padding: 20px; background: #f8f9fa; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+The categorical variables below were each collapsed, and the tables below show the frequencies PRIOR & AFTER Ccollapse.  The coding to collapse categories was completed in SQLWorkbench using data in the file, - [XXX, and saved as the file, ZZZ.  The visualization was conducted in RStudio using the files, YYYYY.  
 
 ## _PRIOR TO COLLAPSING CATEGORIES_
 ### RAW FREQUENCIES of Gender, Age, Educational Level, and Political Affiliation
