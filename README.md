@@ -91,11 +91,11 @@ NOTES - {Gender: Male = 0, Female = 1}, {Education Level: Other type of Training
 </tr>
 </table>
 </div>
-_____
+  ___
 <p align="center">
 THE FOLLOWING CHARTS show the bar charts for the final collapsed data (Gender, Age, Education, & Political Party)
 </p>
-_____
+  ___
   
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
   <img src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" alt="image 1" style="width: 40%; height: auto;" />
