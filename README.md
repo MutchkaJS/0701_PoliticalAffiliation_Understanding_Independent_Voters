@@ -50,7 +50,7 @@ Logistic regression makes no assumptions regarding normality for its independent
 
 
 The categorical variables below were each collapsed, and the tables below show the frequencies PRIOR & AFTER Ccollapse.  The coding to collapse categories was completed in SQLWorkbench using data in the file, - [Election_Logistic_recode](/Election_Logistic_recode.sql), and saved as the file, -[Election_Research_2](/Election_Research_2.csv) ZZ.  The visualization was conducted in RStudio using the file -   
- [Descriptive Univariate Analysis R-script](/descriptives_allVariables_logisticRegression.R) _NOTE:_ to use this file to create the visualizations of PRE and AFTER frequecies you must alter the 'df <- read
+ [Descriptive Univariate Analysis R-script](/descriptives_allVariables_logisticRegression.R) _NOTE:_ to use this file to create the visualizations of PRE and AFTER frequecies you must alter the 'df <-data.file() in LINE 3 by replacing the dataset _Logistic_5_nooutliers_ with the dataset _Election_Research_2_. 
 ## _PRIOR TO COLLAPSING CATEGORIES_
 ### RAW FREQUENCIES of Gender, Age, Educational Level, and Political Affiliation
 <table align="center" style="width:100%; border-spacing: 20px;"> <!-- creates & center table -->
