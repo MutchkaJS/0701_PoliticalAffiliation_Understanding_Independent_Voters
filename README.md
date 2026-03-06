@@ -52,10 +52,9 @@ Logistic regression makes no assumptions regarding normality for its independent
 <div style="border: 3px solid #333; border-radius: 12px; padding: 20px; background: #f8f9fa; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 ### Gender, Age, Educational Level, and Political Affiliation>
-  
-<table align="center" style="width:100%; border-spacing: 20px;">
-<tr>
-<td align="center" valign="top" style="padding: 10px;">
+<table align="center" style="width:100%; border-spacing: 20px;"> <!-- creates & center table -->
+<tr> <!-- defines 1 table row -->
+<td align="center" valign="top" style="padding: 10px;"> <!-- table data cell -->
 <img width="281" height="241" alt="Gender" src="https://github.com/user-attachments/assets/e682a6ee-33dd-4844-bf5b-43bd5fde486d" />
 </td>
 <td align="center" valign="top" style="padding: 10px;">
@@ -71,11 +70,15 @@ Logistic regression makes no assumptions regarding normality for its independent
 </table>
 </div>
 
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
+  <img src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" alt="image 1" style="width: 22%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/1a28e10d-5034-4519-bb53-98041c82e2cb" alt="image 2" style="width: 22%; height: auto;" />
+</div>
 
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
+  <img src="https://github.com/user-attachments/assets/68104276-f200-4585-a4d3-5b6f9fe8db52" alt="image 3" style="width: 22%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/f8730847-c6bc-4e53-9a9f-50251b2211f0" alt="image 4" style="width: 22%; height: auto;" />
+</div>
 
-<img width="977" height="777" alt="image" src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" />
-<img width="1030" height="912" alt="image" src="https://github.com/user-attachments/assets/1a28e10d-5034-4519-bb53-98041c82e2cb" />
-<img width="1012" height="867" alt="image" src="https://github.com/user-attachments/assets/68104276-f200-4585-a4d3-5b6f9fe8db52" />
-<img width="995" height="822" alt="image" src="https://github.com/user-attachments/assets/f8730847-c6bc-4e53-9a9f-50251b2211f0" />
 
 
