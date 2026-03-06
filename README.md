@@ -23,7 +23,7 @@ Demographic questionaire items are similar for each month of the study, however 
 ## STAGE 1: DATA CLEANING / PREPROCESSING ##
 The first step to this analysis was create a dataframe containing only variables common to all three datasets: AGE, INCOME, EDUCATIONAL LEVEL, RACE, SEX, and POLITICAL PARTY AFFILIATION.  I used EXCEL to first omit the variables which were not required for the analysis, and then join all of the observations into one large dataframe totaling n = 1615 instances.  Unfortunately the INCOME attribute contained 344 missing cases.  Using WEKA, I imputed missing values using the k-NN Imputation Filte - [INFO: k-NN Imputation Filter description](/INFO_WEKA_Imputation_Filter.docx)  
 
-The second step to this analysis was to identify outliers.  WEKA was used to identify and remove outliers using the Interquartile Range filter, and RemoveValues filter respectively. Eighty-two instances were removed, leaving n = 1517 instances for analysis. The .csv for this dataframe is provided here: - [Stage 1: Logistic Regression Data](/logistic_5_nooutliers.csv).  At this point that dataframe was imported into MySQL Workbench and the variables were recoded into more general categories as shown in figure XX. 
+The second step to this analysis was to identify outliers.  WEKA was used to identify and remove outliers using the Interquartile Range filter, and RemoveValues filter respectively. Eighty-two instances were removed, leaving n = 1517 instances for analysis. The .csv for this dataframe is provided here: - [Stage 1: Logistic Regression Data](/logistic_5_nooutliers.csv).  At this point that dataframe was imported into MySQL Workbench and the variables were recoded into more general categories. The results are shown in the DESCRIPTIVE UNIVARIATE ANALYSIS below. 
 
 
 ## STAGE 1a: DESCRIPTIVE UNIVARIATE ANALYSIS ##
@@ -51,7 +51,8 @@ Logistic regression makes no assumptions regarding normality for its independent
 
 <div style="border: 3px solid #333; border-radius: 12px; padding: 20px; background: #f8f9fa; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-### Gender, Age, Educational Level, and Political Affiliation>
+## _PRIOR TO COLLAPSING CATEGORIES_
+### RAW FREQUENCIES of Gender, Age, Educational Level, and Political Affiliation
 <table align="center" style="width:100%; border-spacing: 20px;"> <!-- creates & center table -->
 <tr> <!-- defines 1 table row -->
 <td align="center" valign="top" style="padding: 10px;"> <!-- table data cell -->
@@ -70,14 +71,34 @@ Logistic regression makes no assumptions regarding normality for its independent
 </table>
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
-  <img src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" alt="image 1" style="width: 22%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/1a28e10d-5034-4519-bb53-98041c82e2cb" alt="image 2" style="width: 22%; height: auto;" />
+## _AFTER COLLAPSING CATEGORIES_
+### RECODED VARIABLES: Gender, Age, Educational Level, and Political Affiliation
+<table align="center" style="width:100%; border-spacing: 20px;"> <!-- creates & center table -->
+<tr> <!-- defines 1 table row -->
+<td align="center" valign="top" style="padding: 10px;"> <!-- table data cell -->
+<img width="281" height="241" alt="Gender" src="https://github.com/user-attachments/assets/877b69e8-99b8-406d-9083-bf96394b3a7c" />
+</td>
+<td align="center" valign="top" style="padding: 10px;">
+<img width="282" height="503" alt="Age" src="https://github.com/user-attachments/assets/1b669f25-b688-476c-bd21-ab5a00ecaf7d" />
+</td>
+<td align="center" valign="top" style="padding: 10px;">
+<img width="292" height="310" alt="Education" src="https://github.com/user-attachments/assets/63e666e4-db99-4c4f-85c8-51adfbca5dbd" />
+</td>
+<td align="center" valign="top" style="padding: 10px;">
+<img width="298" height="483" alt="Political Affiliation" src="https://github.com/user-attachments/assets/2967f49c-692e-4d6e-9281-56ed1456ec61" />
+</td>
+</tr>
+</table>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
-  <img src="https://github.com/user-attachments/assets/68104276-f200-4585-a4d3-5b6f9fe8db52" alt="image 3" style="width: 22%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/f8730847-c6bc-4e53-9a9f-50251b2211f0" alt="image 4" style="width: 22%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" alt="image 1" style="width: 40%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/1a28e10d-5034-4519-bb53-98041c82e2cb" alt="image 2" style="width: 40%; height: auto;" />
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
+  <img src="https://github.com/user-attachments/assets/68104276-f200-4585-a4d3-5b6f9fe8db52" alt="image 3" style="width: 40%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/f8730847-c6bc-4e53-9a9f-50251b2211f0" alt="image 4" style="width: 40%; height: auto;" />
 </div>
 
 
