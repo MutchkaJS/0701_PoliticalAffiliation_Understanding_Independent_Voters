@@ -91,6 +91,7 @@ The categorical variables below were each collapsed, and the tables below show t
 </table>
 </div>
 
+#### THE FOLLOWING CHARTS show the bar charts for the final collapsed data (Gender, Age, Education, & Political Party)
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
   <img src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" alt="image 1" style="width: 40%; height: auto;" />
   <img src="https://github.com/user-attachments/assets/1a28e10d-5034-4519-bb53-98041c82e2cb" alt="image 2" style="width: 40%; height: auto;" />
