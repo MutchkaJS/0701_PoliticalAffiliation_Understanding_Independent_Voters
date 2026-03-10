@@ -1,4 +1,4 @@
-# 0400_SRU_Projects-STAT660-Political Affiliation #  
+# 0401_Political Affiliation: Understanding Independent Voters #  
 This project explores political party affiliation based on various demographic and socioeconomic factors.  The pipeline includes data ingestion, cleaning, and multiple predictive modeling approaches in R, SQL, EXCEL and WEKA.  This README includes the following information to recreate each part of the analysis.  Any suggestions, comments, discussions, or critiques are welcome!  
 
 ## OVERVIEW ##
