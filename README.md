@@ -91,19 +91,13 @@ NOTES - {Gender: Male = 0, Female = 1}, {Education Level: Other type of Training
 </tr>
 </table>
 </div>
-  ___
-<p align="center">
-THE FOLLOWING CHARTS show the bar charts for the final collapsed data (Gender, Age, Education, & Political Party)
-</p>
-  ___ 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" alt="image 1" style="width: 22%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/1a28e10d-5034-4519-bb53-98041c82e2cb" alt="image 2" style="width: 22%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/68104276-f200-4585-a4d3-5b6f9fe8db52" alt="image 3" style="width: 22%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/f8730847-c6bc-4e53-9a9f-50251b2211f0" alt="image 4" style="width: 22%; height: auto;" />
-</div>
 
-<table align="center" style="width:100%; border-spacing: 2px;">
+<p align="center" style="bold">
+  THE FOLLOWING CHARTS show the bar charts for the final collapsed data (Gender, Age, Education, & Political Party)
+  (Click the chart to enlarge)
+</p>
+
+<table align="center" style="width:100%; border-spacing: 20px;">
 <tr>
 <td align="center"><img src="https://github.com/user-attachments/assets/07d05357-ff05-4479-9c1d-6ffc12a96dee" width="22%" alt="image 1"/></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/1a28e10d-5034-4519-bb53-98041c82e2cb" width="22%" alt="image 2"/></td>
