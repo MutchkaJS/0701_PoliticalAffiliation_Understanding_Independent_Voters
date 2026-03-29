@@ -106,8 +106,9 @@ NOTES - {Gender: Male = 0, Female = 1}, {Education Level: Other type of Training
 </tr>
 </table>
 
-## METHODS: MULTINOMIAL LOGISTIC REGRESSION ##
+## STAGE 1b: METHODS: MULTINOMIAL LOGISTIC REGRESSION ##
 The dataset -[Election_Research_2](/Election_Research_2.csv)  was imported and inspected to confirm structure and content. Required R packages (`caret`, `nnet`, and `dplyr`) were loaded to support data preparation and modeling. Variables were formatted as categorical or ordered factors (_Party, Gender, Race, EdLevel_), and incomplete rows were removed to prepare the modeling dataset.
 
-The data was split into 70% training and 30% testing subsets using stratified random sampling with the `createDataPartition()` function to maintain the class distribution of the outcome variable. A 10‑fold cross‑validation procedure was defined using 'trainControl()`, and a multinomial logistic regression model was trained with the `train()` function from the `caret` package. The model predicted party affiliation (Party) based on Income, Age, Gender, Race, and EdLevel.  R script for this analysis is found in - [R-Script Multinomial Logistic Regression](/
-Model performance was reviewed through cross‑validation results and subsequently tested on the held‑out dataset. Evaluation included the use of confusionMatrix() for classification accuracy and extraction of model coefficients via summary() and coef() for interpretation.
+The data was split into 70% training and 30% testing subsets using stratified random sampling with the `createDataPartition()` function to maintain the class distribution of the outcome variable. A 10‑fold cross‑validation procedure was defined using `trainControl()`, and a multinomial logistic regression model was trained with the `train()` function from the `caret` package. The model predicted party affiliation (Party) based on _Income, Age, Gender, Race, and EdLevel_.  R script for this analysis is found in - [R-Script Multinomial Logistic Regression](/code.r.multinomial.R)
+Model performance was reviewed through cross‑validation results and subsequently tested on the held‑out dataset. Evaluation included the use of `confusionMatrix()` for classification accuracy and extraction of model coefficients via `summary()` and `coef()` for interpretation.
+
