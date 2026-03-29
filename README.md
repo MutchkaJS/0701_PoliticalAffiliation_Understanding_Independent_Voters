@@ -3,7 +3,7 @@ This project explores political party affiliation based on various demographic a
 
 ## OVERVIEW ##
 This study stems from the desire to better understand how Democrat, Independent, and Republican voters differ in both their socioeconomic circumstances and their views/beliefs.  
-- In STAGE 1, I use logistic regression to look determine the utility of using sociodemographic variables for predicting political party affiliation.
+- In STAGE 1, I use Multinomial Logistic Regression to look determine the utility of using sociodemographic variables for predicting political party affiliation.
 - In STAGE 2, k-NN and Random Forest analyses are used to examine if independent voters are closer to democrats or republicans on several beliefs.
 - In STAGE 3, cluster analysis was used to see how clustering groups voters and if there are insights that can be gained. 
 
@@ -105,3 +105,9 @@ NOTES - {Gender: Male = 0, Female = 1}, {Education Level: Other type of Training
 <td align="center"><img src="https://github.com/user-attachments/assets/f8730847-c6bc-4e53-9a9f-50251b2211f0" width="22%" alt="image 4"/></td>
 </tr>
 </table>
+
+## METHODS: MULTINOMIAL LOGISTIC REGRESSION ##
+The dataset -[Election_Research_2](/Election_Research_2.csv)  was imported and inspected to confirm structure and content. Required R packages (`caret`, `nnet`, and `dplyr`) were loaded to support data preparation and modeling. Variables were formatted as categorical or ordered factors (_Party, Gender, Race, EdLevel_), and incomplete rows were removed to prepare the modeling dataset.
+
+The data was split into 70% training and 30% testing subsets using stratified random sampling with the `createDataPartition()` function to maintain the class distribution of the outcome variable. A 10‑fold cross‑validation procedure was defined using 'trainControl()`, and a multinomial logistic regression model was trained with the `train()` function from the `caret` package. The model predicted party affiliation (Party) based on Income, Age, Gender, Race, and EdLevel.  R script for this analysis is found in - [R-Script Multinomial Logistic Regression](/
+Model performance was reviewed through cross‑validation results and subsequently tested on the held‑out dataset. Evaluation included the use of confusionMatrix() for classification accuracy and extraction of model coefficients via summary() and coef() for interpretation.
