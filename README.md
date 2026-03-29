@@ -142,12 +142,83 @@ The coefficient table shows how each predictor influences the log-odds of being 
 ### Overall Predictive Strength
 In summary, the model exhibits weak to moderate predictive ability. While it performs slightly better than a naive baseline that always predicts the majority class, its overall accuracy (~42–44%) and low Kappa (~0.10–0.13) indicate limited practical utility for reliably classifying individual party affiliation. The model’s strength lies primarily in identifying Independent voters, but it fails to adequately capture Republican affiliation and produces considerable misclassification across all classes. These results suggest that the included demographic and socioeconomic predictors alone are insufficient to strongly determine party affiliation, and that additional variables (e.g., political ideology, geographic region, or issue positions) would likely be needed to substantially improve predictive performance.
 
-### Party Distribution Across Train and Test Sets
 
-| Party | Train Set Proportion | Test Set Proportion | Difference |
-|:------|:--------------------:|:-------------------:|:----------:|
-| Democrat | 34.03% | 33.93% | +0.10% |
-| Republican | 27.35% | 27.51% | −0.16% |
-| Independent | 38.62% | 38.56% | +0.06% |
+<div align="center">
 
-*Note: Proportions rounded to 2 decimal places. Differences calculated as Train − Test.*
+## Model Performance on Test Data
+
+<table style="border-collapse: separate; border-spacing: 10px; width: 100%; max-width: 1200px;">
+<tr>
+
+<!-- Box 1: Confusion Matrix -->
+<td style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); vertical-align: top; min-width: 300px;">
+
+### 📊 Confusion Matrix
+
+| Prediction ↓ / Reference → | Democrat | Republican | Independent |
+|:---------------------------|---------:|-----------:|------------:|
+| **Democrat** | 57 | 21 | 38 |
+| **Republican** | 10 | 17 | 21 |
+| **Independent** | 65 | 69 | 91 |
+
+</td>
+
+<!-- Box 2: Overall Statistics -->
+<td style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); vertical-align: top; min-width: 280px;">
+
+### 📈 Overall Statistics
+
+| Metric | Value |
+|:-------|------:|
+| **Accuracy** | 42.42% |
+| 95% CI | (37.45%, 47.50%) |
+| No Information Rate | 38.56% |
+| P-Value (Acc > NIR) | 0.0661 |
+| **Kappa** | 0.1028 |
+| McNemar's Test P-Value | 5.64×10⁻⁸ |
+
+</td>
+
+</tr>
+<tr>
+
+<!-- Box 3: Statistics by Class -->
+<td style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); vertical-align: top;" colspan="2">
+
+### 🎯 Statistics by Class
+
+| Metric | Democrat | Republican | Independent |
+|:-------|---------:|-----------:|------------:|
+| Sensitivity | 0.4318 | 0.1589 | 0.6067 |
+| Specificity | 0.7704 | 0.8901 | 0.4393 |
+| Pos Pred Value | 0.4914 | 0.3542 | 0.4044 |
+| Neg Pred Value | 0.7253 | 0.7361 | 0.6402 |
+| Prevalence | 0.3393 | 0.2751 | 0.3856 |
+| Detection Rate | 0.1465 | 0.0437 | 0.2339 |
+| Detection Prevalence | 0.2982 | 0.1234 | 0.5784 |
+| **Balanced Accuracy** | **0.6011** | **0.5245** | **0.5230** |
+
+</td>
+
+</tr>
+<tr>
+
+<!-- Box 4: Test Accuracy Highlight -->
+<td style="border: 2px solid #4CAF50; border-radius: 8px; padding: 15px; background: #e8f5e9; box-shadow: 0 2px 4px rgba(0,0,0,0.1); vertical-align: top;" colspan="2">
+
+### ✅ Test Accuracy
+
+<div align="center">
+
+# **42.42%**
+
+*Accuracy on held-out test set (165 / 389 correct)*
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
