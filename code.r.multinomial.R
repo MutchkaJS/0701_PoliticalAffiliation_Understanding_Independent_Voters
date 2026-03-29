@@ -2,7 +2,6 @@
 df <- read.csv("election_research_2.csv")
 head(df,20)
 
-head(df_clean, 30)
 # -----------------------------------------------------------
 # 0. Load required packages
 # -----------------------------------------------------------
@@ -17,9 +16,8 @@ df$Party   <- factor(df$Party,
                      levels = c("Democrat", "Republican", "Independent"))
 df$Gender  <- factor(df$Gender)
 df$Race    <- factor(df$Race)
-df$EdLevel <- ordered(df$EdLevel,
-                      levels = c("Less than HS", "HS", "Some College", 
-                                 "Bachelor", "Graduate"))
+df$EdLevel <- ordered(df$EdLevel)
+                     
 
 # Optional: drop rows with missing values in modeling variables
 df_mod <- df %>%
