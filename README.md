@@ -110,6 +110,23 @@ NOTES - {Gender: Male = 0, Female = 1}, {Education Level: Other type of Training
 The dataset -[Election_Research_2](/Election_Research_2.csv)  was imported and inspected to confirm structure and content. Required R packages (`caret`, `nnet`, and `dplyr`) were loaded to support data preparation and modeling. Variables were formatted as categorical or ordered factors (_Party, Gender, Race, EdLevel_), and incomplete rows were removed to prepare the modeling dataset.
 
 The data was split into 70% training and 30% testing subsets using stratified random sampling with the `createDataPartition()` function to maintain the class distribution of the outcome variable. A 10‑fold cross‑validation procedure was defined using `trainControl()`, and a multinomial logistic regression model was trained with the `train()` function from the `caret` package. The model predicted party affiliation (Party) based on _Income, Age, Gender, Race, and EdLevel_.  R script for this analysis is found in - [R-Script Multinomial Logistic Regression](/code.r.multinomial.R)
+
+<div align="center">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9; max-width: 600px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+
+**Party Distribution Across Train and Test Sets**
+
+| Party | Train Set Proportion | Test Set Proportion | Difference |
+|:------|:--------------------:|:-------------------:|:----------:|
+| Democrat | 34.03% | 33.93% | +0.10% |
+| Republican | 27.35% | 27.51% | −0.16% |
+| Independent | 38.62% | 38.56% | +0.06% |
+
+*Note: Proportions rounded to 2 decimal places. Differences calculated as Train − Test.*
+
+</div>
+</div>
+
 Model performance was reviewed through cross‑validation results and subsequently tested on the held‑out dataset. Evaluation included the use of `confusionMatrix()` for classification accuracy and extraction of model coefficients via `summary()` and `coef()` for interpretation.
 
 ## STAGE 1c:  MODEL RESULTS AND INTERPRETATION
@@ -125,3 +142,12 @@ The coefficient table shows how each predictor influences the log-odds of being 
 ### Overall Predictive Strength
 In summary, the model exhibits weak to moderate predictive ability. While it performs slightly better than a naive baseline that always predicts the majority class, its overall accuracy (~42–44%) and low Kappa (~0.10–0.13) indicate limited practical utility for reliably classifying individual party affiliation. The model’s strength lies primarily in identifying Independent voters, but it fails to adequately capture Republican affiliation and produces considerable misclassification across all classes. These results suggest that the included demographic and socioeconomic predictors alone are insufficient to strongly determine party affiliation, and that additional variables (e.g., political ideology, geographic region, or issue positions) would likely be needed to substantially improve predictive performance.
 
+### Party Distribution Across Train and Test Sets
+
+| Party | Train Set Proportion | Test Set Proportion | Difference |
+|:------|:--------------------:|:-------------------:|:----------:|
+| Democrat | 34.03% | 33.93% | +0.10% |
+| Republican | 27.35% | 27.51% | −0.16% |
+| Independent | 38.62% | 38.56% | +0.06% |
+
+*Note: Proportions rounded to 2 decimal places. Differences calculated as Train − Test.*
