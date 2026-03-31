@@ -140,10 +140,6 @@ The confusion matrix reveals substantial class imbalance in predictive success. 
 ### Coefficients Interpretation
 The coefficient table shows how each predictor influences the log-odds of being Republican or Independent relative to the baseline category (Democrat), with Gender coded as 0 = Male and 1 = Female. Race emerges as the strongest predictor: White voters have substantially higher log-odds of being Republican versus Democrat (coefficient = 1.65), while Black and Latino voters have lower log-odds (−0.77 and −0.48, respectively). For Independents, Black voters also show reduced odds relative to Democrats (−0.88), while those of “Other” race show increased odds (1.13). Gender is negatively associated with both Republican (−0.74) and Independent (−0.79) affiliation; since Female = 1, this indicates that women have lower odds of identifying as Republican or Independent compared to men, meaning men are more likely to affiliate with these parties relative to Democrats. Income and Age have coefficients near zero, indicating negligible influence on party affiliation in this model. Education level (orthogonal polynomial contrasts) shows mixed, small-magnitude effects, with no clear monotonic trend across educational attainment.
 
-### Overall Predictive Strength
-In summary, the model exhibits weak to moderate predictive ability. While it performs slightly better than a naive baseline that always predicts the majority class, its overall accuracy (~42–44%) and low Kappa (~0.10–0.13) indicate limited practical utility for reliably classifying individual party affiliation. The model’s strength lies primarily in identifying Independent voters, but it fails to adequately capture Republican affiliation and produces considerable misclassification across all classes. These results suggest that the included demographic and socioeconomic predictors alone are insufficient to strongly determine party affiliation, and that additional variables (e.g., political ideology, geographic region, or issue positions) would likely be needed to substantially improve predictive performance.
-
-
 <div align="center">
 
 ## Model Performance on Test Data
@@ -223,3 +219,6 @@ In summary, the model exhibits weak to moderate predictive ability. While it per
 </table>
 
 </div>
+
+##  STAGE 1: SUMMARY - Overall Predictive Strength
+In summary, the model exhibits weak to moderate predictive ability. While it performs slightly better than a naive baseline that always predicts the majority class, its overall accuracy (~42–44%) and low Kappa (~0.10–0.13) indicate limited practical utility for reliably classifying individual party affiliation. The model’s strength lies primarily in identifying Independent voters, but it fails to adequately capture Republican affiliation and produces considerable misclassification across all classes. These results suggest that the included demographic and socioeconomic predictors alone are insufficient to strongly determine party affiliation, and that additional variables (e.g., political ideology, geographic region, or issue positions) would likely be needed to substantially improve predictive performance.
