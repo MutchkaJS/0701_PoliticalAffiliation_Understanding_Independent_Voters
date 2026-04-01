@@ -220,7 +220,7 @@ The confusion matrix reveals substantial class imbalance in predictive success. 
 ### Coefficients Interpretation
 The coefficient table shows how each predictor influences the log-odds of being Republican or Independent relative to the baseline category (Democrat), with Gender coded as 0 = Male and 1 = Female. Race emerges as the strongest predictor: White voters have substantially higher log-odds of being Republican versus Democrat (coefficient = 1.65), while Black and Latino voters have lower log-odds (−0.77 and −0.48, respectively). For Independents, Black voters also show reduced odds relative to Democrats (−0.88), while those of “Other” race show increased odds (1.13). Gender is negatively associated with both Republican (−0.74) and Independent (−0.79) affiliation; since Female = 1, this indicates that women have lower odds of identifying as Republican or Independent compared to men, meaning men are more likely to affiliate with these parties relative to Democrats. Income and Age have coefficients near zero, indicating negligible influence on party affiliation in this model. Education level (orthogonal polynomial contrasts) shows mixed, small-magnitude effects, with no clear monotonic trend across educational attainment.
 
-## Multinomial Logistic Regression Coefficients
+### Multinomial Logistic Regression Coefficients
 **Outcome:** Party Affiliation (Reference: Democrat)  
 **Model:** `nnet::multinom` with polynomial education terms  
 
@@ -236,11 +236,11 @@ The coefficient table shows how each predictor influences the log-odds of being 
 | &nbsp;&nbsp;Other | 0.304*** | 8.27e−08 | 1.126*** | 1.92e−07 |
 | &nbsp;&nbsp;White | 1.649*** | 0.00003 | 0.716*** | 0.00002 |
 | **Education (Polynomial Contrasts)** | | | | |
-| &nbsp;&nbsp;Linear (L) | −0.152*** | 2.03e−06 | 0.601*** | 1.78e−06 |
-| &nbsp;&nbsp;Quadratic (Q) | −0.144*** | 8.33e−06 | −0.819*** | 8.24e−06 |
-| &nbsp;&nbsp;Cubic (C) | −0.225*** | 1.31e−06 | 0.424*** | 5.88e−07 |
-| &nbsp;&nbsp;4th Degree | 0.131*** | 1.78e−06 | −0.076*** | 1.80e−06 |
-| &nbsp;&nbsp;5th Degree | 0.330*** | 5.26e−06 | 0.243*** | 3.49e−06 |
+| &nbsp;&nbsp;< High School Degree  | −0.152*** | 2.03e−06 | 0.601*** | 1.78e−06 |
+| &nbsp;&nbsp;High School Degree| −0.144*** | 8.33e−06 | −0.819*** | 8.24e−06 |
+| &nbsp;&nbsp;Some College | −0.225*** | 1.31e−06 | 0.424*** | 5.88e−07 |
+| &nbsp;&nbsp;College Degree | 0.131*** | 1.78e−06 | −0.076*** | 1.80e−06 |
+| &nbsp;&nbsp;Graduate Degree | 0.330*** | 5.26e−06 | 0.243*** | 3.49e−06 |
 
 **Model Fit:**  
 - Residual Deviance: 1821.72  
