@@ -137,9 +137,6 @@ The multinomial logistic regression model demonstrated modest predictive perform
 ### Confusion Matrix Interpretation
 The confusion matrix reveals substantial class imbalance in predictive success. The model performs best at identifying Independents, with a sensitivity (recall) of 60.7%, meaning it correctly captures most Independent voters, though its precision for this class is low (40.4%) due to many false positives. In contrast, the model struggles markedly with Republicans, correctly identifying only 15.9% of them (sensitivity), despite a high specificity of 89.0%. Democrats fall in between, with a sensitivity of 43.2% and the highest precision of any class (49.1%). The balanced accuracy scores (ranging from 0.52 to 0.60) confirm that the model’s ability to distinguish each party from the others is only moderately better than random guessing, with particularly poor performance on the Republican class.
 
-### Coefficients Interpretation
-The coefficient table shows how each predictor influences the log-odds of being Republican or Independent relative to the baseline category (Democrat), with Gender coded as 0 = Male and 1 = Female. Race emerges as the strongest predictor: White voters have substantially higher log-odds of being Republican versus Democrat (coefficient = 1.65), while Black and Latino voters have lower log-odds (−0.77 and −0.48, respectively). For Independents, Black voters also show reduced odds relative to Democrats (−0.88), while those of “Other” race show increased odds (1.13). Gender is negatively associated with both Republican (−0.74) and Independent (−0.79) affiliation; since Female = 1, this indicates that women have lower odds of identifying as Republican or Independent compared to men, meaning men are more likely to affiliate with these parties relative to Democrats. Income and Age have coefficients near zero, indicating negligible influence on party affiliation in this model. Education level (orthogonal polynomial contrasts) shows mixed, small-magnitude effects, with no clear monotonic trend across educational attainment.
-
 <div align="center">
 
 ## Model Performance on Test Data
@@ -219,6 +216,43 @@ The coefficient table shows how each predictor influences the log-odds of being 
 </table>
 
 </div>
+
+### Coefficients Interpretation
+The coefficient table shows how each predictor influences the log-odds of being Republican or Independent relative to the baseline category (Democrat), with Gender coded as 0 = Male and 1 = Female. Race emerges as the strongest predictor: White voters have substantially higher log-odds of being Republican versus Democrat (coefficient = 1.65), while Black and Latino voters have lower log-odds (−0.77 and −0.48, respectively). For Independents, Black voters also show reduced odds relative to Democrats (−0.88), while those of “Other” race show increased odds (1.13). Gender is negatively associated with both Republican (−0.74) and Independent (−0.79) affiliation; since Female = 1, this indicates that women have lower odds of identifying as Republican or Independent compared to men, meaning men are more likely to affiliate with these parties relative to Democrats. Income and Age have coefficients near zero, indicating negligible influence on party affiliation in this model. Education level (orthogonal polynomial contrasts) shows mixed, small-magnitude effects, with no clear monotonic trend across educational attainment.
+
+## Multinomial Logistic Regression Coefficients
+**Outcome:** Party Affiliation (Reference: Democrat)  
+**Model:** `nnet::multinom` with polynomial education terms  
+
+| Predictor | Republican (β) | SE | Independent (β) | SE |
+|-----------|----------------|----|-----------------|----|
+| **(Intercept)** | −1.058*** | 0.00004 | 0.613*** | 0.00004 |
+| **Income** | 7.12e−07 | 1.55e−06 | −3.29e−07 | 1.41e−06 |
+| **Age** | 0.00093 | 0.00263 | −0.0115*** | 0.00240 |
+| **Gender (Male=1)** | −0.744*** | 0.00003 | −0.794*** | 0.00002 |
+| **Race (Ref: Other/Unknown)** | | | | |
+| &nbsp;&nbsp;Black | −0.770*** | 0.000004 | −0.881*** | 0.000009 |
+| &nbsp;&nbsp;Latino | −0.481*** | 0.000001 | 0.153*** | 0.000005 |
+| &nbsp;&nbsp;Other | 0.304*** | 8.27e−08 | 1.126*** | 1.92e−07 |
+| &nbsp;&nbsp;White | 1.649*** | 0.00003 | 0.716*** | 0.00002 |
+| **Education (Polynomial Contrasts)** | | | | |
+| &nbsp;&nbsp;Linear (L) | −0.152*** | 2.03e−06 | 0.601*** | 1.78e−06 |
+| &nbsp;&nbsp;Quadratic (Q) | −0.144*** | 8.33e−06 | −0.819*** | 8.24e−06 |
+| &nbsp;&nbsp;Cubic (C) | −0.225*** | 1.31e−06 | 0.424*** | 5.88e−07 |
+| &nbsp;&nbsp;4th Degree | 0.131*** | 1.78e−06 | −0.076*** | 1.80e−06 |
+| &nbsp;&nbsp;5th Degree | 0.330*** | 5.26e−06 | 0.243*** | 3.49e−06 |
+
+**Model Fit:**  
+- Residual Deviance: 1821.72  
+- AIC: 1873.72  
+
+**Notes:**  
+- Reference category for outcome is **Democrat** (not shown).  
+- Positive coefficients indicate higher log-odds of being Republican/Independent vs. Democrat.  
+- Race reference category is implicitly the omitted baseline (likely Asian/Native American or mixed).  
+- Education uses orthogonal polynomial contrasts (L=linear trend, Q=curvature, etc.).  
+- ***p < 0.001 (all coefficients are >10× their SE, indicating extreme significance due to large sample size).  
+
 
 ##  STAGE 1: SUMMARY - Overall Predictive Strength
 In summary, the model exhibits weak to moderate predictive ability. While it performs slightly better than a naive baseline that always predicts the majority class, its overall accuracy (~42–44%) and low Kappa (~0.10–0.13) indicate limited practical utility for reliably classifying individual party affiliation. The model’s strength lies primarily in identifying Independent voters, but it fails to adequately capture Republican affiliation and produces considerable misclassification across all classes. These results suggest that the included demographic and socioeconomic predictors alone are insufficient to strongly determine party affiliation, and that additional variables (e.g., political ideology, geographic region, or issue positions) would likely be needed to substantially improve predictive performance.
