@@ -158,7 +158,7 @@ The confusion matrix reveals substantial class imbalance in predictive success. 
 </td>
 
 <!-- Box 2: Overall Statistics -->
-<td style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); vertical-align: top; min-width: 280px;">
+<td style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); vertical-align: top; min-width: 200px;">
 
 ### 📈 Overall Statistics
 
