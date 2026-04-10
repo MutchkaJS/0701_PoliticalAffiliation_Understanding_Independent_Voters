@@ -3,9 +3,9 @@
 `This project explores political party affiliation based on various demographic and socioeconomic factors.  The pipeline includes data ingestion, cleaning, and multiple predictive modeling approaches in R, SQL, EXCEL and WEKA.  As per my perpetual problem, I am redoing the original analysis a good bit and entering it as I go.. i.e. the documentation is not finished yet! This README includes the following information to recreate each part of the analysis.  Any suggestions, comments, discussions, or critiques are welcome! ` 
 
 ## OVERVIEW ##
-This study stems from the desire to better understand how Democrat, Independent, and Republican voters differ in both their socioeconomic circumstances and their views/beliefs.  
+This study stems from the desire to better understand how Democrat, Independent, and Republican voters differ in both their socioeconomic circumstances and their views/beliefs.
 - In STAGE 1, I use Multinomial Logistic Regression to look determine the utility of using sociodemographic variables for predicting political party affiliation.
-- In STAGE 2, k-NN and Random Forest analyses are used to examine if independent voters are closer to democrats or republicans on several beliefs.
+- In STAGE 2, k-NN and Random Forest analyses are used to examine if independent voters are closer to democrats or republicans on several beliefs.  
 - In STAGE 3, cluster analysis was used to see how clustering groups voters and if there are insights that can be gained. 
 
 
